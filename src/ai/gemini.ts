@@ -78,7 +78,10 @@ async function callWithRetry(prompt: string): Promise<string> {
       await new Promise((r) => setTimeout(r, delayMs));
     }
     try {
-      const result = await model.generateContent(prompt);
+      const timeout = new Promise<never>((_, reject) =>
+        setTimeout(() => reject(new Error("Gemini request timed out")), 30_000)
+      );
+      const result = await Promise.race([model.generateContent(prompt), timeout]);
       const text = result.response.text().trim();
       if (!text) throw new Error("Empty response from Gemini");
       return text;
