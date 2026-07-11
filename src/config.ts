@@ -49,12 +49,6 @@ export const config = {
   ]),
   redditPostsPerSub: 5,
 
-  // X (Twitter) — read via Nitter RSS proxy (free). X's own free API tier
-  // does not allow reading tweets. Configure accounts + a live Nitter
-  // instance; if the instance is down, this source silently yields nothing.
-  xAccounts: envList("X_ACCOUNTS", []),
-  nitterBase: process.env["NITTER_BASE"] ?? "https://nitter.net",
-
   // Source Telegram channels via RSSHub proxy (free public instance)
   telegramChannels: envList("TELEGRAM_CHANNELS", []),
   rsshubBase: "https://rsshub.app/telegram/channel",
