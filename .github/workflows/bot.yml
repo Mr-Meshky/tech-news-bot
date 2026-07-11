@@ -31,7 +31,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
           cache: "pnpm"
 
       - name: Install dependencies
@@ -44,8 +44,6 @@ jobs:
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_CHANNELS: ${{ secrets.TELEGRAM_CHANNELS }}
           REDDIT_SUBREDDITS: ${{ secrets.REDDIT_SUBREDDITS }}
-          X_ACCOUNTS: ${{ secrets.X_ACCOUNTS }}
-          NITTER_BASE: ${{ secrets.NITTER_BASE }}
         run: pnpm dev
 
       - name: Commit updated state

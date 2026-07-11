@@ -32,7 +32,7 @@
           ┌─────────────▼──────────────┐
           │       منابع خبری           │
           │  RSS · Reddit · GitHub     │
-          │  Trending · X · Telegram   │
+          │  Trending · Telegram       │
           └─────────────┬──────────────┘
                         │
           ┌─────────────▼──────────────┐
@@ -61,7 +61,6 @@
 | TechCrunch, The Verge, Wired, Ars Technica, Hacker News, MIT Tech Review, Zoomit | RSS | ❌ رایگان |
 | Reddit (technology, programming, artificial, gadgets) | RSS عمومی | ❌ رایگان |
 | GitHub Trending | Scrape | ❌ رایگان |
-| X / Twitter | Nitter RSS proxy | ❌ رایگان |
 | کانال‌های تلگرام دیگه | RSSHub proxy | ❌ رایگان |
 
 ---
@@ -100,8 +99,6 @@ pnpm install
 | `TELEGRAM_CHANNEL_ID` | مثلا `@mychannel` یا `-1001234567890` | ✅ |
 | `TELEGRAM_CHANNELS` | کانال‌های تلگرامی برای خوندن (جدا با `,`) | ❌ |
 | `REDDIT_SUBREDDITS` | ساب‌ردیت‌های دلخواه (جدا با `,`) | ❌ |
-| `X_ACCOUNTS` | اکانت‌های توییتر (جدا با `,`) | ❌ |
-| `NITTER_BASE` | URL یه Nitter instance زنده | ❌ |
 
 ### ۳. ربات رو فعال کن
 
@@ -143,8 +140,7 @@ tech-news-bot/
 │   ├── sources/
 │   │   ├── rss.ts           # خوندن RSS (خبرسایت‌ها + کانال‌های تلگرام)
 │   │   ├── reddit.ts        # ردیت (بدون API)
-│   │   ├── github-trending.ts # ترندینگ گیت‌هاب
-│   │   └── x.ts             # توییتر از طریق Nitter
+│   │   └── github-trending.ts # ترندینگ گیت‌هاب
 │   ├── ai/
 │   │   └── gemini.ts        # فرمت‌کردن با Gemini
 │   ├── publisher/
