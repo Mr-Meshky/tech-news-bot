@@ -99,7 +99,19 @@ async function main(): Promise<void> {
   console.log(`[main] Done.`);
 }
 
-main().catch((err) => {
-  console.error("[main] Fatal error:", err);
+// Safety net: force-kill after 4 minutes in case any socket never closes
+const killTimer = setTimeout(() => {
+  console.error("[main] Global timeout — force exiting");
   process.exit(1);
-});
+}, 4 * 60_000);
+
+main()
+  .catch((err) => {
+    console.error("[main] Fatal error:", err);
+    process.exit(1);
+  })
+  .finally(() => {
+    clearTimeout(killTimer);
+    // rss-parser leaves sockets open after timeout — force-exit to close them
+    process.exit(0);
+  });
