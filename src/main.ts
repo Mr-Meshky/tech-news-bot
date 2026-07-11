@@ -1,10 +1,37 @@
 import "dotenv/config";
-import { fetchAllSources } from "./sources/index";
+import { fetchAllSources, type NewsItem } from "./sources/index";
 import { loadDedupStore, saveDedupStore, hashUrl } from "./storage/dedup";
 import { loadQueue, saveQueue } from "./storage/queue";
 import { formatForTelegram } from "./ai/gemini";
 import { sendPost, type OutgoingPost } from "./publisher/telegram";
 import { config } from "./config";
+
+/**
+ * Round-robin across sources so each contributes ~equally to a batch.
+ * Preserves per-source order (most recent first within each source).
+ */
+function pickDiverse(items: NewsItem[], total: number): NewsItem[] {
+  const bySource = new Map<string, NewsItem[]>();
+  for (const item of items) {
+    const bucket = bySource.get(item.source) ?? [];
+    bucket.push(item);
+    bySource.set(item.source, bucket);
+  }
+  const buckets = [...bySource.values()];
+  const result: NewsItem[] = [];
+  for (let round = 0; result.length < total; round++) {
+    let anyLeft = false;
+    for (const bucket of buckets) {
+      if (round < bucket.length) {
+        result.push(bucket[round]);
+        anyLeft = true;
+        if (result.length >= total) break;
+      }
+    }
+    if (!anyLeft) break;
+  }
+  return result;
+}
 
 /**
  * Each run sends exactly one post. When the queue is empty, fresh news is
@@ -17,7 +44,7 @@ async function refillQueue(seen: Set<string>): Promise<OutgoingPost[]> {
   const newItems = rawItems.filter((item) => !seen.has(hashUrl(item.url)));
   console.log(`[main] New items after dedup: ${newItems.length}`);
 
-  const itemsToProcess = newItems.slice(0, config.maxPostsPerRun);
+  const itemsToProcess = pickDiverse(newItems, config.maxPostsPerRun);
   const queue: OutgoingPost[] = [];
 
   for (const item of itemsToProcess) {
