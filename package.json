@@ -1,8 +1,22 @@
 {
   "name": "tech-news-bot",
   "version": "1.0.0",
-  "description": "Tech news aggregator → Gemini → Telegram (Persian)",
-  "private": true,
+  "description": "Tech news aggregator → Gemini AI → Telegram Persian channel. Runs free on GitHub Actions.",
+  "license": "MIT",
+  "homepage": "https://github.com/Mr-Meshky/tech-news-bot#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mr-Meshky/tech-news-bot.git"
+  },
+  "keywords": [
+    "telegram-bot",
+    "tech-news",
+    "gemini-ai",
+    "github-actions",
+    "persian",
+    "rss-aggregator",
+    "typescript"
+  ],
   "scripts": {
     "dev": "tsx src/main.ts",
     "typecheck": "tsc --noEmit"
