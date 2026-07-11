@@ -54,9 +54,13 @@ export const config = {
   ]),
   redditPostsPerSub: 5,
 
-  // Source Telegram channels via RSSHub proxy (free public instance)
+  // Source Telegram channels via RSSHub — tries mirrors in order until one works
   telegramChannels: envList("TELEGRAM_CHANNELS", []),
-  rsshubBase: "https://rsshub.app/telegram/channel",
+  rsshubMirrors: [
+    "https://rsshub.app/telegram/channel",
+    "https://rsshub.rssforever.com/telegram/channel",
+    "https://rsshub.fly.dev/telegram/channel",
+  ],
 
   githubTrendingUrl: "https://github.com/trending",
   githubTrendingLimit: 5,

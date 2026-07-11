@@ -98,9 +98,13 @@ export async function fetchTelegramChannels(): Promise<NewsItem[]> {
   if (config.telegramChannels.length === 0) return [];
 
   const results = await Promise.allSettled(
-    config.telegramChannels.map((username) =>
-      fetchFeed(`${config.rsshubBase}/${username}`, `Telegram @${username}`)
-    )
+    config.telegramChannels.map(async (username) => {
+      for (const base of config.rsshubMirrors) {
+        const items = await fetchFeed(`${base}/${username}`, `Telegram @${username}`);
+        if (items.length > 0) return items;
+      }
+      return [] as NewsItem[];
+    })
   );
   return results.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
 }
