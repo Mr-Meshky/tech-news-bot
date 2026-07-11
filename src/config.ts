@@ -18,6 +18,11 @@ function envList(name: string, fallback: string[] = []): string[] {
 export const config = {
   telegramBotToken: requireEnv("TELEGRAM_BOT_TOKEN"),
   telegramChannelId: requireEnv("TELEGRAM_CHANNEL_ID"),
+  /** @username for post signature — derived from TELEGRAM_CHANNEL_ID if it starts with @ */
+  get telegramChannelUsername() {
+    const id = process.env["TELEGRAM_CHANNEL_ID"] ?? "";
+    return id.startsWith("@") ? id : "";
+  },
   geminiApiKey: requireEnv("GEMINI_API_KEY"),
 
   /** Batch size when refilling the post queue */
