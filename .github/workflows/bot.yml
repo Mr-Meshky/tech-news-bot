@@ -2,9 +2,8 @@ name: Tech News Bot
 
 on:
   schedule:
-    # Every 15 minutes: each run posts one queued item; when the queue is
-    # empty a fresh batch is fetched (8 posts ≈ a new batch every 2 hours).
-    - cron: "*/15 * * * *"
+    # Every 3 hours = 8 posts/day. Queue holds 8 posts → refills once per day.
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 permissions:
