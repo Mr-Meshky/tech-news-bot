@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "body": "یه MMO جدید اومده به اسم PointlessQuest که کلا دید آدم رو به Massive Multiplayer Online عوض می‌کنه! 🎮\n\nاگه WoW رو یادتون باشه که پیک سابسکرایبرش ۱۲ میلیون نفر بود، این بازی دقیقا برعکسه. سازنده‌اش عمدا همه چیش رو کوچیک نگه داشته.\n\nمثلا تو روز لانچ، پیک پلیرهای همزمانش ۱۵ نفر بوده! آره، ۱۵ نفر، نه ۱۵ میلیون. عدد رو اشتباه نخوندم 😂\n\nاین بازی رو یه طراح به اسم گرت ویلیامز به عنوان یه پروژه جانبی ساخته، و این حس و حال \"کوچیک بودن\" توش موج میزنه. نکته بامزه‌اش اینه که روی غیرمنتظره‌ترین پلتفرم ممکن موجوده! واقعا یه کانسپت باحاله تو دنیای بازی.",
-      "linkUrl": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest",
-      "mediaUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_00027-copy.jpg?quality=90&strip=all&crop=0,0,100,100",
-      "mediaType": "photo"
-    },
-    {
       "body": "ایده دیتاسنتر تو فضا رو احتمالا شنیدید — همیشه هم به نظر یه جورایی فانتزی و فضایی میاد.\n\nArs Technica یه مقاله جالب در موردش نوشته و بزرگترین چالش رو دفع گرما میدونه.\n\nوقتی تو زمین یه سرور گرم میشه، فن هست، تهویه هست، آب خنک‌کن هست. تو فضا قضیه فرق داره و رادیاتورای ایستگاه فضایی (ISS) رو مثال زده که هم سنگینن هم گرون.\n\nهدف اینه که راه حل‌های ارزون‌تر و سبک‌تر پیدا کنن. ولی خب... \"ارزون\" و \"سبک\" تو فضا یه تعریف دیگه داره.\n\nفعلا بیشتر شبیه یه چالش مهندسی خیلی بزرگ میاد تا یه راه حل عملی و نزدیک. فکر کنم تا عملی بشه، همین دیتاسنترای روی زمین رو از نظر مصرف انرژی بهینه کردن راحت‌تر باشه 😅",
       "linkUrl": "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
       "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/space-datacenter-analysis-one-1152x648.jpg",
@@ -27,5 +21,5 @@
       "linkUrl": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
     }
   ],
-  "lastUpdated": "2026-07-15T13:06:59.469Z"
+  "lastUpdated": "2026-07-15T16:12:19.978Z"
 }
