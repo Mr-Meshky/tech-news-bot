@@ -12,4 +12,13 @@ export interface NewsItem {
   /** Direct URL to an image or video to attach to the Telegram post */
   mediaUrl?: string;
   mediaType?: MediaType;
+  /** Engagement hint (HN points, Reddit upvotes, GitHub stars) for curation */
+  points?: number;
+}
+
+/** Result of one source fetch — items plus which sub-sources failed outright */
+export interface SourceResult {
+  items: NewsItem[];
+  /** Source labels that errored (network/parse), for health tracking */
+  failedSources: string[];
 }

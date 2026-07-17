@@ -1,27 +1,27 @@
-import type { NewsItem } from "./types";
+import type { NewsItem, SourceResult } from "./types";
 import { fetchAllRssFeeds, fetchTelegramChannels } from "./rss";
 import { fetchGithubTrending } from "./github-trending";
 import { fetchReddit } from "./reddit";
+import { fetchYoutubeChannels } from "./youtube";
 
-export type { NewsItem };
+export type { NewsItem, SourceResult };
 
-export async function fetchAllSources(): Promise<NewsItem[]> {
+export async function fetchAllSources(): Promise<SourceResult> {
   console.log("[sources] Fetching all sources in parallel...");
 
-  const [rssItems, telegramItems, trendingItems, redditItems] =
-    await Promise.all([
-      fetchAllRssFeeds(),
-      fetchTelegramChannels(),
-      fetchGithubTrending(),
-      fetchReddit(),
-    ]);
+  const results = await Promise.all([
+    fetchAllRssFeeds(),
+    fetchTelegramChannels(),
+    fetchGithubTrending(),
+    fetchReddit(),
+    fetchYoutubeChannels(),
+  ]);
 
-  const all = [
-    ...rssItems,
-    ...telegramItems,
-    ...trendingItems,
-    ...redditItems,
-  ];
-  console.log(`[sources] Total raw items: ${all.length}`);
-  return all;
+  const items = results.flatMap((r) => r.items);
+  const failedSources = results.flatMap((r) => r.failedSources);
+  console.log(
+    `[sources] Total raw items: ${items.length}` +
+      (failedSources.length ? ` — failed: ${failedSources.join(", ")}` : "")
+  );
+  return { items, failedSources };
 }

@@ -1,5 +1,5 @@
 import Parser from "rss-parser";
-import type { NewsItem } from "./types";
+import type { NewsItem, SourceResult } from "./types";
 import { config } from "../config";
 
 interface FeedItemExtras {
@@ -63,48 +63,78 @@ function extractMedia(item: FeedItem): Pick<NewsItem, "mediaUrl" | "mediaType"> 
   return {};
 }
 
-export async function fetchFeed(url: string, sourceName: string): Promise<NewsItem[]> {
+/** hnrss embeds "Points: 152" in the item body — a useful curation signal */
+function extractPoints(item: FeedItem): number | undefined {
+  const match = /Points:\s*(\d+)/.exec(item.content ?? item.contentSnippet ?? "");
+  return match ? Number(match[1]) : undefined;
+}
+
+/** Returns null on fetch/parse failure so callers can track source health. */
+export async function fetchFeed(
+  url: string,
+  sourceName: string
+): Promise<NewsItem[] | null> {
   try {
     const feed = await parser.parseURL(url);
     return (feed.items ?? [])
       .filter((item) => Boolean(item.link))
-      .map((item): NewsItem => ({
-        url: item.link!,
-        title: item.title?.trim() ?? "(no title)",
-        description: stripHtml(
-          item.contentSnippet ?? item.content ?? item.summary ?? ""
-        ),
-        source: sourceName,
-        publishedAt: item.isoDate ?? item.pubDate ?? new Date().toISOString(),
-        ...extractMedia(item),
-      }));
+      .map((item): NewsItem => {
+        const points = extractPoints(item);
+        return {
+          url: item.link!,
+          title: item.title?.trim() ?? "(no title)",
+          description: stripHtml(
+            item.contentSnippet ?? item.content ?? item.summary ?? ""
+          ),
+          source: sourceName,
+          publishedAt: item.isoDate ?? item.pubDate ?? new Date().toISOString(),
+          ...extractMedia(item),
+          ...(points !== undefined ? { points } : {}),
+        };
+      });
   } catch (err) {
     console.warn(
       `[rss] Failed to fetch "${sourceName}" (${url}):`,
       (err as Error).message
     );
-    return [];
+    return null;
   }
 }
 
-export async function fetchAllRssFeeds(): Promise<NewsItem[]> {
-  const results = await Promise.allSettled(
-    config.rssFeeds.map((feed) => fetchFeed(feed.url, feed.name))
+export async function fetchAllRssFeeds(): Promise<SourceResult> {
+  const items: NewsItem[] = [];
+  const failedSources: string[] = [];
+  const results = await Promise.all(
+    config.rssFeeds.map(async (feed) => ({
+      name: feed.name,
+      items: await fetchFeed(feed.url, feed.name),
+    }))
   );
-  return results.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
+  for (const r of results) {
+    if (r.items === null) failedSources.push(r.name);
+    else items.push(...r.items);
+  }
+  return { items, failedSources };
 }
 
-export async function fetchTelegramChannels(): Promise<NewsItem[]> {
-  if (config.telegramChannels.length === 0) return [];
+export async function fetchTelegramChannels(): Promise<SourceResult> {
+  if (config.telegramChannels.length === 0)
+    return { items: [], failedSources: [] };
 
-  const results = await Promise.allSettled(
+  const items: NewsItem[] = [];
+  const failedSources: string[] = [];
+  await Promise.all(
     config.telegramChannels.map(async (username) => {
+      const label = `Telegram @${username}`;
       for (const base of config.rsshubMirrors) {
-        const items = await fetchFeed(`${base}/${username}`, `Telegram @${username}`);
-        if (items.length > 0) return items;
+        const found = await fetchFeed(`${base}/${username}`, label);
+        if (found && found.length > 0) {
+          items.push(...found);
+          return;
+        }
       }
-      return [] as NewsItem[];
+      failedSources.push(label);
     })
   );
-  return results.flatMap((r) => (r.status === "fulfilled" ? r.value : []));
+  return { items, failedSources };
 }
