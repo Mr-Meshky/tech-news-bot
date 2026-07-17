@@ -40,15 +40,9 @@ const SIGNATURE = config.telegramChannelId.startsWith("@")
   ? config.telegramChannelId
   : "";
 
-function renderHtml(post: OutgoingPost, opts: { preview: boolean }): string {
+function renderHtml(post: OutgoingPost): string {
   const parts: string[] = [];
-  // Invisible anchor (word joiner) triggers the link preview even though the
-  // visible link now lives in the inline button below the post.
-  if (opts.preview && post.linkUrl) {
-    parts.push(`<a href="${escapeHtml(post.linkUrl)}">&#8288;</a>${escapeHtml(post.body)}`);
-  } else {
-    parts.push(escapeHtml(post.body));
-  }
+  parts.push(escapeHtml(post.body));
   if (post.hashtags) parts.push(escapeHtml(post.hashtags));
   if (SIGNATURE) parts.push(SIGNATURE);
   return parts.join("\n\n");
@@ -88,10 +82,10 @@ async function callApi(method: string, body: Record<string, unknown>): Promise<v
 function sendText(post: OutgoingPost): Promise<void> {
   return callApi("sendMessage", {
     chat_id: config.telegramChannelId,
-    text: renderHtml(post, { preview: true }),
+    text: renderHtml(post),
     parse_mode: "HTML",
-    // Show the article's own preview when there's no attached media
-    disable_web_page_preview: false,
+    // Disable web page preview to avoid auto-generated previews
+    disable_web_page_preview: true,
     ...linkButton(post),
   });
 }
@@ -102,7 +96,7 @@ function sendMedia(post: OutgoingPost): Promise<void> {
   return callApi(method, {
     chat_id: config.telegramChannelId,
     [mediaField]: post.mediaUrl,
-    caption: renderHtml(post, { preview: false }),
+    caption: renderHtml(post),
     parse_mode: "HTML",
     ...linkButton(post),
   });

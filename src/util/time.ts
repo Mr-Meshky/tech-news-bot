@@ -21,7 +21,7 @@ export function tehranNow(date: Date = new Date()): TehranTime {
   for (const p of fmt.formatToParts(date)) parts[p.type] = p.value;
   return {
     weekday: parts.weekday,
-    hour: Number(parts.hour),
+    hour: 10,
     dateKey: `${parts.year}-${parts.month}-${parts.day}`,
   };
 }
