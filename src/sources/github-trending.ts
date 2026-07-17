@@ -1,5 +1,5 @@
 import * as cheerio from "cheerio";
-import type { NewsItem } from "./types";
+import type { NewsItem, SourceResult } from "./types";
 import { config } from "../config";
 
 async function fetchHtml(url: string): Promise<string> {
@@ -17,7 +17,8 @@ async function fetchHtml(url: string): Promise<string> {
   }
 }
 
-export async function fetchGithubTrending(): Promise<NewsItem[]> {
+/** Scrapes the trending page and returns raw repo items (also used by the weekly spotlight) */
+export async function scrapeTrendingRepos(): Promise<NewsItem[]> {
   try {
     const html = await fetchHtml(config.githubTrendingUrl);
     const $ = cheerio.load(html);
@@ -56,6 +57,7 @@ export async function fetchGithubTrending(): Promise<NewsItem[]> {
         description: fullDescription,
         source: "GitHub Trending",
         publishedAt: new Date().toISOString(),
+        ...(!isNaN(starsNum) ? { points: starsNum } : {}),
         // GitHub renders a social-preview card for every repo
         mediaUrl: `https://opengraph.githubassets.com/1${relHref}`,
         mediaType: "photo",
@@ -66,6 +68,14 @@ export async function fetchGithubTrending(): Promise<NewsItem[]> {
     return items;
   } catch (err) {
     console.warn(`[github-trending] Failed:`, (err as Error).message);
-    return [];
+    throw err;
+  }
+}
+
+export async function fetchGithubTrending(): Promise<SourceResult> {
+  try {
+    return { items: await scrapeTrendingRepos(), failedSources: [] };
+  } catch {
+    return { items: [], failedSources: ["GitHub Trending"] };
   }
 }

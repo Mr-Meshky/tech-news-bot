@@ -1,5 +1,6 @@
 import { config } from "../config";
 import type { MediaType } from "../sources/types";
+import type { Category } from "../util/categories";
 
 const TELEGRAM_API = `https://api.telegram.org/bot${config.telegramBotToken}`;
 
@@ -9,10 +10,19 @@ const CAPTION_LIMIT = 1024;
 export interface OutgoingPost {
   /** Gemini output — plain text, no link line */
   body: string;
-  /** Article URL, rendered as a hyperlink on "بیشتر بخون" */
-  linkUrl: string;
+  /** Article URL, shown as an inline "بیشتر بخون" button */
+  linkUrl?: string;
+  /** Original item title — kept for the archive & weekly digest */
+  title?: string;
+  /** Source label, e.g. "TechCrunch" — kept for the archive */
+  source?: string;
+  category?: Category;
+  /** Pre-rendered hashtag line, e.g. "#هوش_مصنوعی #تکنولوژی" */
+  hashtags?: string;
   mediaUrl?: string;
   mediaType?: MediaType;
+  /** Failed-send counter — post is re-queued until maxSendAttempts */
+  attempts?: number;
 }
 
 interface TelegramResponse {
@@ -31,18 +41,27 @@ const SIGNATURE = config.telegramChannelId.startsWith("@")
   : "";
 
 function renderHtml(post: OutgoingPost): string {
-  const parts = [
-    escapeHtml(post.body),
-    `🔗 <a href="${escapeHtml(post.linkUrl)}">بیشتر بخون</a>`,
-  ];
+  const parts: string[] = [];
+  parts.push(escapeHtml(post.body));
+  if (post.hashtags) parts.push(escapeHtml(post.hashtags));
   if (SIGNATURE) parts.push(SIGNATURE);
   return parts.join("\n\n");
 }
 
 /** Visible length as Telegram counts it (link markup doesn't count, its label does) */
-function visibleLength(post: OutgoingPost): number {
+export function visibleLength(post: OutgoingPost): number {
+  const hashtagsLen = post.hashtags ? post.hashtags.length + 2 : 0;
   const signatureLen = SIGNATURE ? SIGNATURE.length + 2 : 0;
-  return post.body.length + "\n\n🔗 بیشتر بخون".length + signatureLen;
+  return post.body.length + hashtagsLen + signatureLen;
+}
+
+function linkButton(post: OutgoingPost): Record<string, unknown> {
+  if (!post.linkUrl) return {};
+  return {
+    reply_markup: {
+      inline_keyboard: [[{ text: "بیشتر بخون 🔗", url: post.linkUrl }]],
+    },
+  };
 }
 
 async function callApi(method: string, body: Record<string, unknown>): Promise<void> {
@@ -65,8 +84,9 @@ function sendText(post: OutgoingPost): Promise<void> {
     chat_id: config.telegramChannelId,
     text: renderHtml(post),
     parse_mode: "HTML",
-    // Show the article's own preview when there's no attached media
-    disable_web_page_preview: false,
+    // Disable web page preview to avoid auto-generated previews
+    disable_web_page_preview: true,
+    ...linkButton(post),
   });
 }
 
@@ -78,6 +98,7 @@ function sendMedia(post: OutgoingPost): Promise<void> {
     [mediaField]: post.mediaUrl,
     caption: renderHtml(post),
     parse_mode: "HTML",
+    ...linkButton(post),
   });
 }
 
@@ -98,4 +119,29 @@ export async function sendPost(post: OutgoingPost): Promise<void> {
     }
   }
   await sendText(post);
+}
+
+export function sendPoll(question: string, options: string[]): Promise<void> {
+  return callApi("sendPoll", {
+    chat_id: config.telegramChannelId,
+    question,
+    options,
+    is_anonymous: true,
+  });
+}
+
+/**
+ * Health alert to the admin's private chat. Never throws — a broken alert
+ * channel must not take down a posting run.
+ */
+export async function sendAdminMessage(text: string): Promise<void> {
+  if (!config.telegramAdminChatId) return;
+  try {
+    await callApi("sendMessage", {
+      chat_id: config.telegramAdminChatId,
+      text: `🤖 tech-news-bot\n\n${text}`,
+    });
+  } catch (err) {
+    console.warn(`[telegram] Admin alert failed:`, (err as Error).message);
+  }
 }

@@ -42,7 +42,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_CHANNELS: ${{ secrets.TELEGRAM_CHANNELS }}
+          TELEGRAM_ADMIN_CHAT_ID: ${{ secrets.TELEGRAM_ADMIN_CHAT_ID }}
           REDDIT_SUBREDDITS: ${{ secrets.REDDIT_SUBREDDITS }}
+          YOUTUBE_CHANNELS: ${{ secrets.YOUTUBE_CHANNELS }}
         run: pnpm dev
 
       - name: Commit updated state

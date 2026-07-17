@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>آرشیو اخبار تک</title>
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1a1a2e; --muted: #6b7280;
+    --card: #f4f5f7; --accent: #2563eb; --chip: #e5e7eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #101018; --fg: #e8e8f0; --muted: #9ca3af;
+      --card: #1b1b28; --accent: #60a5fa; --chip: #2a2a3a;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; }
+  body {
+    background: var(--bg); color: var(--fg);
+    font-family: Vazirmatn, Tahoma, system-ui, sans-serif;
+    max-width: 720px; margin: 0 auto; padding: 24px 16px 64px;
+    line-height: 1.7;
+  }
+  h1 { font-size: 1.5rem; margin-bottom: 4px; }
+  .sub { color: var(--muted); font-size: .9rem; margin-bottom: 20px; }
+  #search {
+    width: 100%; padding: 10px 14px; border-radius: 10px;
+    border: 1px solid var(--chip); background: var(--card); color: var(--fg);
+    font: inherit; margin-bottom: 12px;
+  }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+  .chip {
+    padding: 4px 12px; border-radius: 999px; background: var(--chip);
+    border: none; cursor: pointer; font: inherit; font-size: .85rem; color: var(--fg);
+  }
+  .chip.active { background: var(--accent); color: #fff; }
+  .item {
+    background: var(--card); border-radius: 12px;
+    padding: 12px 16px; margin-bottom: 10px;
+  }
+  .item a { color: var(--accent); text-decoration: none; font-weight: 600; }
+  .item a:hover { text-decoration: underline; }
+  .meta { color: var(--muted); font-size: .8rem; margin-top: 4px; }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+</style>
+</head>
+<body>
+<h1>📡 آرشیو اخبار تک</h1>
+<p class="sub">پست‌های اخیر کانال — از <code>data/archive.json</code> همین ریپو</p>
+<input id="search" type="search" placeholder="جستجو در عنوان‌ها…">
+<div class="chips" id="chips"></div>
+<div id="list"><p class="empty">در حال بارگذاری…</p></div>
+
+<script>
+const ARCHIVE_URL =
+  "https://raw.githubusercontent.com/Mr-Meshky/tech-news-bot/main/data/archive.json";
+const FA = {
+  ai: "هوش مصنوعی", programming: "برنامه‌نویسی", mobile: "موبایل",
+  security: "امنیت", gadgets: "گجت", web: "وب", startup: "استارتاپ",
+  science: "علم", game: "گیمینگ", other: "متفرقه",
+};
+let entries = [], activeCat = null;
+
+function render() {
+  const q = document.getElementById("search").value.trim().toLowerCase();
+  const list = document.getElementById("list");
+  const shown = entries.filter((e) =>
+    (!activeCat || e.category === activeCat) &&
+    (!q || e.title.toLowerCase().includes(q) || (e.source || "").toLowerCase().includes(q))
+  );
+  if (!shown.length) {
+    list.innerHTML = '<p class="empty">چیزی پیدا نشد.</p>';
+    return;
+  }
+  list.innerHTML = shown.map((e) => {
+    const date = new Date(e.postedAt).toLocaleDateString("fa-IR");
+    const cat = e.category ? " · " + (FA[e.category] || e.category) : "";
+    return `<div class="item">
+      <a href="${e.url}" target="_blank" rel="noopener">${e.title
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;")}</a>
+      <div class="meta">${e.source || ""}${cat} · ${date}</div>
+    </div>`;
+  }).join("");
+}
+
+function renderChips() {
+  const cats = [...new Set(entries.map((e) => e.category).filter(Boolean))];
+  const chips = document.getElementById("chips");
+  chips.innerHTML =
+    '<button class="chip active" data-cat="">همه</button>' +
+    cats.map((c) => `<button class="chip" data-cat="${c}">${FA[c] || c}</button>`).join("");
+  chips.querySelectorAll(".chip").forEach((btn) =>
+    btn.addEventListener("click", () => {
+      chips.querySelectorAll(".chip").forEach((b) => b.classList.remove("active"));
+      btn.classList.add("active");
+      activeCat = btn.dataset.cat || null;
+      render();
+    })
+  );
+}
+
+document.getElementById("search").addEventListener("input", render);
+fetch(ARCHIVE_URL)
+  .then((r) => r.json())
+  .then((data) => {
+    entries = (data.entries || []).slice().reverse(); // newest first
+    renderChips();
+    render();
+  })
+  .catch(() => {
+    document.getElementById("list").innerHTML =
+      '<p class="empty">آرشیو هنوز ساخته نشده — بعد از اولین پست موفق، فایل archive.json ایجاد می‌شه.</p>';
+  });
+</script>
+</body>
+</html>

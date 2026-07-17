@@ -1,0 +1,48 @@
+# GitLab CI equivalent of .github/workflows/bot.yml
+#
+# Setup on GitLab:
+#   1. Settings → CI/CD → Variables: add GEMINI_API_KEY, TELEGRAM_BOT_TOKEN,
+#      TELEGRAM_CHANNEL_ID (+ optional TELEGRAM_CHANNELS, TELEGRAM_ADMIN_CHAT_ID,
+#      REDDIT_SUBREDDITS, YOUTUBE_CHANNELS). Mark them Masked.
+#   2. Create a Project Access Token (Settings → Access tokens) with the
+#      `write_repository` scope and role Developer, and save it as a CI/CD
+#      variable named GITLAB_PUSH_TOKEN (Masked) — used to commit data/ back.
+#   3. Build → Pipeline schedules → New schedule with cron `0 */3 * * *`.
+#      Heads-up: on gitlab.com's free tier (400 compute-min/month) every-3-hours
+#      may run out mid-month — use every 4-6 hours or a self-hosted runner.
+#
+# The bot itself is platform-agnostic; only this commit-back step differs
+# from the GitHub Actions workflow.
+
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "schedule"
+    - if: $CI_PIPELINE_SOURCE == "web"
+
+run-bot:
+  image: node:22
+  # Never let two runs race on the queue/dedup commits
+  resource_group: tech-news-bot
+  variables:
+    GIT_DEPTH: "1"
+  before_script:
+    - corepack enable
+    - corepack prepare pnpm@10 --activate
+    - pnpm config set store-dir .pnpm-store
+  cache:
+    key: pnpm-store
+    paths:
+      - .pnpm-store
+  script:
+    - pnpm install --frozen-lockfile
+    - pnpm dev
+    - |
+      git config user.name "gitlab-ci"
+      git config user.email "gitlab-ci@noreply.${CI_SERVER_HOST}"
+      git add data/
+      if git diff --staged --quiet; then
+        echo "No changes to commit."
+      else
+        git commit -m "chore: update bot state [skip ci]"
+        git push "https://oauth2:${GITLAB_PUSH_TOKEN}@${CI_SERVER_HOST}/${CI_PROJECT_PATH}.git" "HEAD:${CI_COMMIT_REF_NAME}"
+      fi
