@@ -118,7 +118,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-07-18T18:44:43.688Z"
+    },
+    {
+      "title": "What AI did to stackoverflow in a graph",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-07-18T21:38:45.236Z"
     }
   ],
-  "lastUpdated": "2026-07-18T18:44:43.689Z"
+  "lastUpdated": "2026-07-18T21:38:45.237Z"
 }
