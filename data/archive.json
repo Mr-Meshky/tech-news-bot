@@ -146,7 +146,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-07-19T07:55:14.193Z"
+    },
+    {
+      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-07-19T10:18:14.362Z"
     }
   ],
-  "lastUpdated": "2026-07-19T07:55:14.194Z"
+  "lastUpdated": "2026-07-19T10:18:14.364Z"
 }
