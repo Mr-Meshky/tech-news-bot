@@ -321,7 +321,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-07-22T10:56:55.825Z"
+    },
+    {
+      "title": "Incremental – A library for incremental computations",
+      "url": "https://github.com/janestreet/incremental",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-07-22T13:17:15.396Z"
     }
   ],
-  "lastUpdated": "2026-07-22T10:56:55.826Z"
+  "lastUpdated": "2026-07-22T13:17:15.397Z"
 }
