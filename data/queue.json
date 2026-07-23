@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "سامسونگ بالاخره از نسل جدید تاشوهاش رونمایی کرد: Galaxy Z Fold 8 و Z Flip 8. البته مثل همیشه، همشون گرون‌تر شدن و سامسونگ کمبود قطعات رو بهونه کرده. Z Flip 8 از ۱۰۰۰ دلار رد شده و مدل Ultra تقریبا دو برابرشه.\n\nاین بار سه تا مدل Z Fold داریم:\n• Z Fold 8 Ultra: مدل پرچمدار و جانشین Fold 7 که همون فرم فاکتور قبلی رو داره.\n• Z Fold 8: یه مدل کاملا جدید و عریض که بیشتر برای تماشای محتوا طراحی شده.\n• Z Flip 8: مدل فلیپ که باریک‌تر شده.\n\nچند تا نکته جالب دیگه:\n• خیلی نازک‌تر شدن: Fold 8 Ultra در حالت باز 4.1mm و Fold 8 هم 4.5mm هستن که واقعا خوبه.\n• باتری بهتر: Fold 8 با 4800mAh و Ultra با 5000mAh اومدن که پیشرفت خوبیه نسبت به نسل قبل. Flip 8 هم 4300mAh.\n• شارژ سریع‌تر: مدل‌های Fold حالا 45W شارژ میشن، ولی Flip همچنان رو 25W مونده.\n• Flex Titanium: یه لایه جدید تیتانیومی زیر نمایشگر برای مقاومت بیشتر، باز و بسته شدن نرم‌تر، و مهم‌تر از همه، کاهش خط تا یا همون crease معروف! 🥳\n\nاون Z Fold 8 جدید با نمایشگر داخلی 4:3 واقعا برای دیدن ویدیو و خوندن متن عالیه. ولی Ultra با صفحه نزدیک به مربعش هنوز برای مولتی‌تسکینگ حرف اول رو می‌زنه، نه لزوما لذت بردن از فیلم.",
-      "linkUrl": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
-      "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
-      "source": "Ars Technica",
-      "category": "mobile",
-      "hashtags": "#موبایل #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/1.Samsung-Galaxy-Z-Fold8-Ultra-Fold8-and-Flip8-1152x648.jpg",
-      "mediaType": "photo"
-    },
-    {
       "body": "گوگل یه سری آپدیت جدید برای جیمنای معرفی کرد، ولی 3.5 Pro که قرار بود تو ژوئن بیاد، هنوز خبری ازش نیست 😒\n\n3.5 Flash که همین چند ماه پیش ستاره I/O بود، رسما بازنشست شد و جاش رو 3.6 Flash گرفت. گوگل میگه این مدل از فیدبک کاربرها ساخته شده و توی کدینگ و computer use بهتر شده.\n• DeepSWE (کدینگ): 3.6 Flash شده 49% (قبلا 37%)\n• OSWorld (computer use): 3.6 Flash شده 83% (قبلا 78.4%)\n• مصرف توکن: 17% کمتر\n• قیمت API: ورودی 1.50$، خروجی 7.50$ (قبلا 9$)\n\nواقعا 3.5 Flash توی کد جنریشن اونطور که گوگل وعده داده بود عمل نکرد و حالا 3.6 با تمرکز روی بهره‌وری و کم کردن مصرف توکن اومده. این نشون میده هزینه توکن‌ها چقدر برای شرکت‌ها مهمه.\n\nدو تا مدل دیگه هم معرفی شد:\n• Gemini 3.5 Flash Lite: خیلی بهینه، 350 توکن بر ثانیه، ارزون، تقریبا با مدل‌های پیشرفته یه سال پیش برابره.\n• Gemini 3.5 Flash Cyber: اولین جیمنای که مخصوص سایبرسکیوریتی طراحی شده.\n\nجالبه که گوگل همین الان داره جیمنای 4 رو آموزش میده! این همه سرعت توی آپدیت مدل‌ها از یه طرف خوبه، از یه طرف هم نشون میده هنوز توی فاز آزمون و خطان.",
       "linkUrl": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
       "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
@@ -29,5 +19,5 @@
       "hashtags": "#وب #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-07-23T08:07:53.007Z"
+  "lastUpdated": "2026-07-23T10:57:08.183Z"
 }
