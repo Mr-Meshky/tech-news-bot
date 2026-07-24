@@ -447,7 +447,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-07-24T19:08:49.797Z"
+    },
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-07-24T21:55:18.478Z"
     }
   ],
-  "lastUpdated": "2026-07-24T19:08:49.798Z"
+  "lastUpdated": "2026-07-24T21:55:18.481Z"
 }
