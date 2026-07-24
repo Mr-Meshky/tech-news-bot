@@ -440,7 +440,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-07-24T13:13:49.622Z"
+    },
+    {
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-07-24T19:08:49.797Z"
     }
   ],
-  "lastUpdated": "2026-07-24T13:13:49.623Z"
+  "lastUpdated": "2026-07-24T19:08:49.798Z"
 }
