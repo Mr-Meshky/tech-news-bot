@@ -454,7 +454,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-07-24T21:55:18.478Z"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-07-25T01:25:22.637Z"
     }
   ],
-  "lastUpdated": "2026-07-24T21:55:18.481Z"
+  "lastUpdated": "2026-07-25T01:25:22.638Z"
 }
