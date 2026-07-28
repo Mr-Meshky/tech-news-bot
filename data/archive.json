@@ -643,7 +643,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-07-28T13:26:20.812Z"
+    },
+    {
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-07-28T16:27:16.238Z"
     }
   ],
-  "lastUpdated": "2026-07-28T13:26:20.813Z"
+  "lastUpdated": "2026-07-28T16:27:16.240Z"
 }
