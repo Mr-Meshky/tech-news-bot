@@ -1,14 +1,6 @@
 {
   "posts": [
     {
-      "body": "مایکروسافت هم رسما اومد تو گود امنیت سایبری با AI! 🚀\n\nیه مدل جدید معرفی کرده به اسم MAI-Cyber-1-Flash که مخصوص پیدا کردن اسیب‌پذیری تو کدهای پیچیده‌ست. ادعا میکنن تو یه بنچمارک خاص، از مدلای Anthropic و گوگل و OpenAI هم قوی‌تره و کم‌هزینه‌تر.\n\nکنارش یه پلتفرم agent-based هم داده به اسم Perception. این پلتفرم تیم‌های AI مجزا میفرسته که کارای امنیتی رو اتوماتیک انجام بدن:\n• Red Teams: حملات سایبری رو شبیه‌سازی میکنن.\n• Blue Teams: باگ‌های موجود رو پیدا و اولویت‌بندی میکنن.\n• Green Teams: میرن سراغ رفع کردن باگ‌ها.\n\nواقعا اگه این سیستم بتونه ساعت‌ها کار دستی رو به دقیقه تبدیل کنه، یه پیشرفت بزرگه. با اینکه ادعاهای بنچمارکی مایکروسافت همیشه با یه دوز اغراق همراهه، ولی ترکیب مدل تخصصی و سیستم agentic برای مقابله با AI هکرها منطقی به نظر میاد.",
-      "linkUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "source": "TechCrunch",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی"
-    },
-    {
       "body": "رفقا، اگه با Go کار می‌کنید و مخصوصا اگه بحث garbage collection براتون مهمه، این مطلب رو از دست ندید. 🚀\n\nیه مقاله جذاب اومده که رسما GC جدید Go رو زیر ذره‌بین برده و نشون میده چطور تو حافظه (heap) حرکت می‌کنه و چجوری کار میکنه. مقایسه‌اش با GC قبلی هم خیلی آموزنده‌ست.\n\nاینکه چقدر روی کاهش latency و stop-the-world pauses مانور داده شده، واقعا عالیه. بالاخره Go داره بیشتر و بیشتر تو جاهایی که performance حرف اول رو میزنه جا باز میکنه و اینجور پیشرفت‌های core خیلی بهش کمک میکنه. یه جورایی دارن Go رو برای آینده آماده میکنن. 🧑‍💻",
       "linkUrl": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
       "title": "Watching Go's new garbage collector move through the heap",
@@ -43,5 +35,5 @@
       "hashtags": "#امنیت #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-07-28T11:07:53.545Z"
+  "lastUpdated": "2026-07-28T13:26:20.814Z"
 }
