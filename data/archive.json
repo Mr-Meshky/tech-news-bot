@@ -685,7 +685,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-07-29T08:15:28.263Z"
+    },
+    {
+      "title": "Zig's Incremental Compilation Internals",
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-07-29T11:12:59.600Z"
     }
   ],
-  "lastUpdated": "2026-07-29T08:15:28.265Z"
+  "lastUpdated": "2026-07-29T11:12:59.602Z"
 }
