@@ -741,7 +741,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-07-30T08:04:11.272Z"
+    },
+    {
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-07-30T10:56:48.255Z"
     }
   ],
-  "lastUpdated": "2026-07-30T08:04:11.273Z"
+  "lastUpdated": "2026-07-30T10:56:48.256Z"
 }
