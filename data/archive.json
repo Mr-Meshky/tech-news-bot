@@ -797,7 +797,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-07-31T08:29:28.441Z"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-07-31T11:15:45.563Z"
     }
   ],
-  "lastUpdated": "2026-07-31T08:29:28.442Z"
+  "lastUpdated": "2026-07-31T11:15:45.564Z"
 }
