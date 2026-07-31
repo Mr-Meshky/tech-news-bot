@@ -776,7 +776,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-07-30T21:56:45.072Z"
+    },
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-07-31T01:29:21.447Z"
     }
   ],
-  "lastUpdated": "2026-07-30T21:56:45.074Z"
+  "lastUpdated": "2026-07-31T01:29:21.448Z"
 }
