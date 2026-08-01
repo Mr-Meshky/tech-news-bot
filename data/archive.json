@@ -853,7 +853,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-08-01T07:59:01.823Z"
+    },
+    {
+      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
+      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-08-01T10:24:53.790Z"
     }
   ],
-  "lastUpdated": "2026-08-01T07:59:01.824Z"
+  "lastUpdated": "2026-08-01T10:24:53.791Z"
 }
