@@ -972,7 +972,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-08-03T17:03:11.902Z"
+    },
+    {
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-03T19:15:17.077Z"
     }
   ],
-  "lastUpdated": "2026-08-03T17:03:11.904Z"
+  "lastUpdated": "2026-08-03T19:15:17.078Z"
 }
