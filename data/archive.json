@@ -1049,7 +1049,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-08-05T01:22:03.905Z"
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-05T05:35:20.855Z"
     }
   ],
-  "lastUpdated": "2026-08-05T01:22:03.907Z"
+  "lastUpdated": "2026-08-05T05:35:20.857Z"
 }
