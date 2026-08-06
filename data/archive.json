@@ -1105,7 +1105,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-08-06T01:19:17.295Z"
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-06T05:37:53.812Z"
     }
   ],
-  "lastUpdated": "2026-08-06T01:19:17.296Z"
+  "lastUpdated": "2026-08-06T05:37:53.814Z"
 }
