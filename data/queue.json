@@ -1,15 +1,4 @@
 {
-  "posts": [
-    {
-      "body": "D-Wave رو یادتونه؟ همونایی که با Quantum Annealer هاشون تو دنیای دیگه ای از IBM و گوگل بودن. بالاخره دارن میان تو بازی Gate-Based! 🚀\n\nچند سالی بود کار میکردن، الان رسما تو Nature مقاله دادن که چی دارن.\n\nتکنولوژی جدیدشون Dual-Rail Qubit هست که از Quantum Circuits (یه استارتاپ از ییل) خریدن. جالبه، آمازون هم داره از همین استفاده میکنه.\n\nنکته کلیدی اینجاست:\n• بیشترین خطا (گم شدن فوتون) رو میشه خیلی راحت تشخیص داد.\n• برای این تشخیص، دیگه نیاز به کیوبیت‌های اضافی برای تصحیح خطا نداری.\n• این یعنی با فیزیکی کیوبیت کمتر، میشه یه Logical Qubit با خطای اصلاح شده ساخت.\n\nD-Wave داره شرط‌بندی میکنه که همین باعث میشه زودتر به کوانتوم کامپیوتینگ کاربردی برسن. حرکت هوشمندانه‌ایه، چون Error Correction بزرگترین چالش کوانتومه. 🔥",
-      "linkUrl": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-      "title": "D-Wave shows off its new entry in quantum computing race",
-      "source": "Ars Technica",
-      "category": "science",
-      "hashtags": "#علم #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp",
-      "mediaType": "photo"
-    }
-  ],
-  "lastUpdated": "2026-08-07T09:47:47.660Z"
+  "posts": [],
+  "lastUpdated": "2026-08-07T12:35:57.411Z"
 }
