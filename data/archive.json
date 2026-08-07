@@ -1175,7 +1175,14 @@
       "source": "Ars Technica",
       "category": "science",
       "postedAt": "2026-08-07T12:35:57.409Z"
+    },
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-07T15:43:44.713Z"
     }
   ],
-  "lastUpdated": "2026-08-07T12:35:57.410Z"
+  "lastUpdated": "2026-08-07T15:43:44.714Z"
 }
