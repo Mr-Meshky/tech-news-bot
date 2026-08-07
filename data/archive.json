@@ -1161,7 +1161,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-08-07T06:57:16.120Z"
+    },
+    {
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-07T09:47:47.658Z"
     }
   ],
-  "lastUpdated": "2026-08-07T06:57:16.121Z"
+  "lastUpdated": "2026-08-07T09:47:47.659Z"
 }
