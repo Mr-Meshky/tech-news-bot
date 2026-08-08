@@ -1245,7 +1245,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-08-08T18:19:29.311Z"
+    },
+    {
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-08T21:18:17.963Z"
     }
   ],
-  "lastUpdated": "2026-08-08T18:19:29.312Z"
+  "lastUpdated": "2026-08-08T21:18:17.965Z"
 }
