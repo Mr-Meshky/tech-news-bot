@@ -1238,7 +1238,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-08-08T15:19:30.092Z"
+    },
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-08-08T18:19:29.311Z"
     }
   ],
-  "lastUpdated": "2026-08-08T15:19:30.093Z"
+  "lastUpdated": "2026-08-08T18:19:29.312Z"
 }
