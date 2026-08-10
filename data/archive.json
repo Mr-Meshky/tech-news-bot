@@ -1308,7 +1308,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-08-09T21:19:54.566Z"
+    },
+    {
+      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-10T00:48:28.900Z"
     }
   ],
-  "lastUpdated": "2026-08-09T21:19:54.568Z"
+  "lastUpdated": "2026-08-10T00:48:28.902Z"
 }
