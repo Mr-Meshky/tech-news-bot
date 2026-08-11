@@ -1399,7 +1399,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-08-11T12:36:30.616Z"
+    },
+    {
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source": "The Verge",
+      "category": "security",
+      "postedAt": "2026-08-11T15:48:28.245Z"
     }
   ],
-  "lastUpdated": "2026-08-11T12:36:30.617Z"
+  "lastUpdated": "2026-08-11T15:48:28.246Z"
 }
