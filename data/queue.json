@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "اپل و ویژن پرو دوباره رفتن سراغ ورزش ⚾️\n\nاین بار Friday Night Baseball رو از ۲۸ آگوست شروع میکنن به صورت immersive روی ویژن پرو پخش کنن. چهار هفته پشت سر هم، تا ۱۸ سپتامبر.\n\nچند تا چیز جالبش:\n• پخش immersive با ویدیو سه بعدی و حس حضور تو استادیوم\n• کامنتری از تحلیل‌گرای معروف\n• گرافیک زنده که تو فضای واقعی کاربر ثابت میمونه\n\nقبلا هم بازیای لیکرز NBA رو روی هدست پخش کرده بودن که شاید بسکتبال‌فنا رو جذب کنن. این اضافه شدن بیسبال نشون میده اپل چقدر داره تلاش میکنه برای ویژن پرو محتوای انحصاری بسازه تا آدمو قانع کنه این همه پول بابتش بده.\n\nبالاخره محتوای immersive هنوز خیلی کمه و اپل باید از هر فرصتی استفاده کنه.",
-      "linkUrl": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
-      "title": "Apple will stream Friday Night Baseball live in Vision Pro",
-      "source": "The Verge",
-      "category": "gadgets",
-      "hashtags": "#گجت #تکنولوژی",
-      "mediaUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Apple-Friday-Night-Immersive-Baseball.png?quality=90&strip=all&crop=0,0,100,100",
-      "mediaType": "photo"
-    },
-    {
       "body": "دوکر یه سرویس جدید معرفی کرده به اسم Docker Sandboxes که راستش خیلی باحال و کاربردی به نظر میاد! 🚀\n\nداستان از این قراره که وقتی با AI Agentها کار می‌کنی (مثلا Claude Code، Gemini CLI و...)، اینا معمولا نیاز به دسترسی‌های زیادی دارن: پکیج نصب کنن، سرویس ران کنن، حتی کانتینرهای دیگه بسازن. خب این خطرناکه، خصوصا اگه agent کامل قابل اعتماد نباشه.\n\nDocker Sandboxes دقیقا همینو حل می‌کنه. میاد یه محیط ایزوله MicroVM درست می‌کنه که agent توی اون کار می‌کنه.\n\nچند تا نکته خوبش:\n• سیستم فایل و شبکه اصلی شما کاملا امن می‌مونه.\n• agent ها می‌تونن آزادانه هر چی لازم دارن نصب کنن یا حتی کانتینرهای خودشون رو تو این sandbox بالا بیارن.\n• یه مود \"YOLO\" هم داره که agent ها توش دسترسی کامل دارن، ولی چون تو MicroVM ایزوله هستن، دیگه خیالت راحته که سیستم اصلیت آسیب نمی‌بینه.\n• برای تیم‌ها و سازمان‌ها هم یه لایه \"Docker AI Governance\" دارن که میشه قوانین و دسترسی‌ها رو برای همه agent ها و دولوپرها یکپارچه کرد.\n\nبه نظرم با افزایش autonomy agent ها، این یه قدم منطقی و ضروری برای امنیت و آرامش خاطره. دوکر همیشه تو زمینه ابزارهای توسعه پیشگام بوده و اینم یکی از هموناست. 👏",
       "linkUrl": "https://www.docker.com/products/docker-sandboxes/",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
@@ -27,5 +17,5 @@
       "hashtags": "#هوش_مصنوعی #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-08-11T04:09:53.697Z"
+  "lastUpdated": "2026-08-11T06:43:22.480Z"
 }
