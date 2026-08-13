@@ -1,15 +1,4 @@
 {
-  "posts": [
-    {
-      "body": "کروم یه حرکت خیلی خفن زده برای امنیت اکانت‌ها! 🔥\n\nمیدونین که حتی با 2FA و پس‌کی (passkey)، هنوز یه راه برای هکرها هست که اکانتتون رو بدزدن؟ این راه از طریق دزدیدن سشن کوکی‌هاست، مخصوصا با بدافزارهای InfoStealer. وقتی لاگین میکنین، سایت یه سشن کوکی میذاره که دیگه هر بار پسورد نخواین. هکر با یه بدافزار این کوکی رو میدزده و خودش به جای شما وارد میشه، چون سایت فکر میکنه شما خودتون هستین.\n\nحالا کروم یه فیچر جدید اورده به اسم Device-Bound Session Credentials یا همون DBSC. چجوری کار میکنه؟\n• یه کلید رمزنگاری خاص توی بخش سخت‌افزاری امن دیوایستون (مثل TPM تو ویندوز یا Secure Enclave تو مک) ذخیره میشه.\n• وقتی سایت سشن کوکی میده، مرورگر باید اونو با اون کلید سخت‌افزاری امضا کنه.\n• حتی اگه هکر کوکی رو بدزده، نمیتونه کلید رو از سخت‌افزار بیرون بکشه تا کوکی رو امضا کنه.\n\nیعنی کوکی بدون امضای سخت‌افزاری هیچ ارزشی نداره. این واقعا یه سد محکم جلوی یه مدل رایج از هک اکانت‌هاست. یه قدم خیلی بزرگ رو به جلو برای امنیت کاربرها و به نظرم یکی از بهترین حفاظت‌ها تا الان. 🚀",
-      "linkUrl": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover-1152x648.jpg",
-      "mediaType": "photo"
-    }
-  ],
-  "lastUpdated": "2026-08-13T09:52:13.762Z"
+  "posts": [],
+  "lastUpdated": "2026-08-13T12:40:38.648Z"
 }
