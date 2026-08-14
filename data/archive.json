@@ -1553,7 +1553,14 @@
       "source": "Ars Technica",
       "category": "mobile",
       "postedAt": "2026-08-14T07:04:35.792Z"
+    },
+    {
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-14T09:49:45.058Z"
     }
   ],
-  "lastUpdated": "2026-08-14T07:04:35.794Z"
+  "lastUpdated": "2026-08-14T09:49:45.060Z"
 }
