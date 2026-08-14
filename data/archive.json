@@ -1560,7 +1560,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-08-14T09:49:45.058Z"
+    },
+    {
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "source": "Ars Technica",
+      "category": "web",
+      "postedAt": "2026-08-14T12:36:17.188Z"
     }
   ],
-  "lastUpdated": "2026-08-14T09:49:45.060Z"
+  "lastUpdated": "2026-08-14T12:36:17.189Z"
 }
