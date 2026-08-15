@@ -1623,7 +1623,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-08-15T12:16:37.671Z"
+    },
+    {
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-08-15T15:08:56.825Z"
     }
   ],
-  "lastUpdated": "2026-08-15T12:16:37.672Z"
+  "lastUpdated": "2026-08-15T15:08:56.827Z"
 }

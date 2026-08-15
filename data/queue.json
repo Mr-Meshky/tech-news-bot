@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "مک‌بازا، حواستون باشه! 🚨 یه آسیب‌پذیری خیلی جدی تو macOS پیدا شده که مهاجم‌ها رو به روت سیستم‌تون میرسونه، اونم بدون پسورد.\n\nاین باگ مربوط به قابلیت Screen Sharing میشه و رسما ازش دارن سوءاستفاده میکنن. گزارش شده که تو سیستم‌های آسیب‌پذیر، Monero Miner نصب کردن. یعنی مک‌تون رو تبدیل به مزرعه استخراج ارز دیجیتال مهاجم میکنن! ⛏️\n\nاپل هفته پیش برای macOS Tahoe, Sequoia و Sonoma پچ این باگ (CVE-2026-65400) رو منتشر کرده. پس اولین و مهمترین کار، آپدیت سیستمه.\n\nدلیل اصلیش چیه؟ اگه Screen Sharing رو فعال کرده باشین و پورت 5900 سیستم‌تون به اینترنت باز باشه (که فایروال مک خودش این کارو میکنه)، در معرض خطرین.\n\nچند تا نکته برای امنیت بیشتر:\n• حتما macOS رو به اخرین نسخه آپدیت کنید.\n• اگه از Screen Sharing استفاده نمیکنید، خاموشش کنید. (System Settings > General > Sharing)\n• اگه لازمه، فقط موقع نیاز روشن کنید و بلافاصله بعدش خاموش کنید.\n• برای Screen Sharing روی اینترنت، از VPN یا SSH tunneling استفاده کنید تا پورت 5900 مستقیما باز نباشه.",
-      "linkUrl": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
-      "mediaType": "photo"
-    },
-    {
       "body": "خبر دیتابریکس خیلی باحاله! قرار بود فقط ۱ میلیارد دلار جذب سرمایه کنن، ولی انقدر سرمایه‌گذار صف کشیده بود که تهش شد ۵ میلیارد دلار، با ارزش ۱۹۰ میلیارد دلار! 🤯\n\nمدیرعاملش، علی قدسی، گفته AI واقعا گرونه و اینقدر علاقه از طرف سرمایه‌گذارها بوده که مجبور شدن بیشتر از برنامه‌ریزی شده سهام بفروشن. یه جوری شده بود که ۱۵ میلیارد دلار درخواست سرمایه گذاری داشتن!\n\nالبته Databricks هم خودش کم پتانسیل نیست:\n• الان ۷ میلیارد دلار درآمد سالانه (ARR) داره و ۸۰٪ هم رشد می‌کنه.\n• بخش اصلی محصولش (cloud data warehouse) خودش ۱.۵ میلیارد دلار از این درآمد رو داره و ۱۰۰٪ رشد سالانه!\n• محصولات AI مثل Lakebase و Genie هم حسابی دارن پولسازی می‌کنن.\n\nاین همون جاییه که هایپ AI با یه بیزینس قوی قاطی می‌شه. یه جورایی هم خنده‌داره این حجم از هیجان، هم واقعا نشون میده دیتا و هوش مصنوعی چقدر داغن. 🔥",
       "linkUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
@@ -37,5 +27,5 @@
       "hashtags": "#امنیت #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-08-15T12:16:37.673Z"
+  "lastUpdated": "2026-08-15T15:08:56.828Z"
 }
