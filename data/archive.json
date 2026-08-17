@@ -1721,7 +1721,14 @@
       "source": "Hacker News",
       "category": "mobile",
       "postedAt": "2026-08-17T06:29:04.092Z"
+    },
+    {
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-17T09:28:30.839Z"
     }
   ],
-  "lastUpdated": "2026-08-17T06:29:04.093Z"
+  "lastUpdated": "2026-08-17T09:28:30.840Z"
 }
