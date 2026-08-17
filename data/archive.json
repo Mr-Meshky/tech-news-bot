@@ -1749,7 +1749,14 @@
       "source": "Ars Technica",
       "category": "mobile",
       "postedAt": "2026-08-17T18:20:22.856Z"
+    },
+    {
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-08-17T21:16:37.400Z"
     }
   ],
-  "lastUpdated": "2026-08-17T18:20:22.857Z"
+  "lastUpdated": "2026-08-17T21:16:37.401Z"
 }
