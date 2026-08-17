@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "اوپن‌ای‌آی قابلیت جدید Computer History رو برای اپ دسکتاپ ChatGPT تو macOS آورده. 💻\n\nاین فیچر، کلیک‌ها و کیبوردت رو دنبال می‌کنه تا اتوماسیون پیشنهاد بده و کارای نصفه و نیمه‌ت رو ادامه بده. یه تایم‌لاین از فعالیت‌هات می‌سازه که ChatGPT و Codex ازش استفاده می‌کنن.\n\nخیلی شبیه Recall ویندوزه، اما با یه تفاوت کلیدی: OpenAI میگه اسکرین‌شات یا ویدیو نمی‌گیره، فقط \"رویدادها\" رو ثبت می‌کنه. با این حال، بازم رد پای کلیک و کیبورد رو داشتن یه ذره حس عجیبی داره 😟\n\nخبر خوب اینه که Computer History چت‌جی‌پی‌تی opt-in ه، نه opt-out (خودت باید فعالش کنی).\n• می‌تونی اپ‌ها و سایت‌های خاصی رو ازش حذف کنی.\n• می‌تونی ورودی‌ها رو هر وقت خواستی پاک کنی.\n• تو تب‌های incognito یا private کار نمی‌کنه.\n\nنگرانی‌های حریم خصوصی هست، اما opt-in بودن و این کنترل‌ها خیلی بهتر از Recall مایکروسافته. اگه خوب کار کنه، میتونه ابزار بهره‌وری جالبی باشه.",
-      "linkUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "source": "The Verge",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&strip=all&crop=0,0,100,100",
-      "mediaType": "photo"
-    },
-    {
       "body": "خبر خوب برای فایرفاکس بازا روی iOS! 🦊\n\nفایرفاکس برای iOS بالاخره یه اد بلاکر نیتیو (built-in) گرفت. این یعنی چی؟\n\n• دیگه لازم نیست بری سراغ Content Blockerهای محدود اپل که اغلب خیلی موثر نیستن.\n• خود فایرفاکس داره تبلیغات رو بلاک میکنه، که احتمالا پرفورمنس بهتری داره و بلاکینگش هم قوی‌تره.\n• برای کسایی که حریم خصوصی و تجربه وبگردی بدون آگهی براشون مهمه، یه قدم رو به جلوئه.\n\nخصوصا تو اکوسیستم بسته‌ی iOS که توسعه‌دهنده‌ها تو این موارد خیلی محدودن، این حرکت موزیلا قابل تحسینه. بالاخره یه گزینه بهتر از سافاری داریم. 👍",
       "linkUrl": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "title": "Firefox for iOS now has a native adblocker",
@@ -53,5 +43,5 @@
       "mediaType": "photo"
     }
   ],
-  "lastUpdated": "2026-08-17T00:31:35.253Z"
+  "lastUpdated": "2026-08-17T03:38:53.215Z"
 }
