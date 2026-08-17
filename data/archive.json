@@ -1700,7 +1700,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-08-16T21:11:00.974Z"
+    },
+    {
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-17T00:31:35.251Z"
     }
   ],
-  "lastUpdated": "2026-08-16T21:11:00.975Z"
+  "lastUpdated": "2026-08-17T00:31:35.252Z"
 }
