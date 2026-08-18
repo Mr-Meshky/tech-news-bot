@@ -1,15 +1,4 @@
 {
-  "posts": [
-    {
-      "body": "واسه یه ایستگاه تلویزیونی PBS یه دردسر بزرگ پیش اومده. ۵۰ ترابایت آرشیو ۷۰ ساله‌شون در خطر از دست رفتنه چون سرویس‌دهنده کلاودشون (Open Source Storage - OSS) غیبش زده و جواب نمیده 🤦‍♂️\n\nاین دیتا تو یکی از دیتاسنترهای Iron Mountain ذخیره شده بوده که OSS ازش استفاده می‌کرده. اما Iron Mountain میگه قرارداد ما با OSS بوده، نه شما، و به دیتا دسترسی نمیده. در واقع Iron Mountain هم میگه ما فقط سخت‌افزار رو میزبانی می‌کنیم و به محتوای دیتا دسترسی نداریم.\n\nاینجاست که قضیه پیچیده میشه:\n• قرارداد PBS با OSS تموم شده و هیچ‌کس پاسخگو نیست.\n• ۵۰ ترابایت آرشیو مهم و اغلب غیرقابل جایگزین، از سیل ۹۳ تا کووید ۱۹، گیر افتاده.\n• Iron Mountain هم از نظر قراردادی حق داره، ولی این وضع برای PBS فاجعه‌ست.\n\nخوشبختانه قاضی فعلا رای داده که Iron Mountain باید دستگاه‌های فیزیکی رو تحویل بده. PBS هم باید یه متخصص (احتمالا کارمند سابق OSS) پیدا کنه تا تو ۳۰ روز دیتا رو بدون آسیب زدن به بقیه مشتریان OSS ریکاوری کنه.\n\nاین نشون میده چقدر پلن خروج از سرویس‌های کلاود مهمه. نباید فرض کرد دیتاتون تو کلاود همیشه ۱۰۰٪ امنه و همیشه بدون دردسر بهش دسترسی دارید 🤷‍♂️",
-      "linkUrl": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893-1024x648.jpg",
-      "mediaType": "photo"
-    }
-  ],
-  "lastUpdated": "2026-08-18T12:20:12.155Z"
+  "posts": [],
+  "lastUpdated": "2026-08-18T15:19:05.551Z"
 }
