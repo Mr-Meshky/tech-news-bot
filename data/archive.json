@@ -1854,7 +1854,14 @@
       "source": "Product Hunt",
       "category": "other",
       "postedAt": "2026-08-19T15:19:14.856Z"
+    },
+    {
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-08-19T18:17:48.436Z"
     }
   ],
-  "lastUpdated": "2026-08-19T15:19:14.858Z"
+  "lastUpdated": "2026-08-19T18:17:48.437Z"
 }
