@@ -1917,7 +1917,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-08-20T18:21:48.120Z"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-08-20T21:16:44.530Z"
     }
   ],
-  "lastUpdated": "2026-08-20T18:21:48.121Z"
+  "lastUpdated": "2026-08-20T21:16:44.531Z"
 }
