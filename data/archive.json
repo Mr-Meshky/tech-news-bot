@@ -1931,7 +1931,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-08-21T00:34:11.072Z"
+    },
+    {
+      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-08-21T03:40:11.126Z"
     }
   ],
-  "lastUpdated": "2026-08-21T00:34:11.074Z"
+  "lastUpdated": "2026-08-21T03:40:11.128Z"
 }
