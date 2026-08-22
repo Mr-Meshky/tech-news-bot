@@ -1980,7 +1980,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-08-21T21:12:38.744Z"
+    },
+    {
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-22T00:31:39.700Z"
     }
   ],
-  "lastUpdated": "2026-08-21T21:12:38.745Z"
+  "lastUpdated": "2026-08-22T00:31:39.701Z"
 }
