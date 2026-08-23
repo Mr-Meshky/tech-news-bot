@@ -2078,7 +2078,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-08-23T15:10:23.170Z"
+    },
+    {
+      "title": "Rust Glancer: Rust LSP using 100x less RAM",
+      "url": "https://rust-glancer.github.io/blog/hello-world/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-23T18:12:19.475Z"
     }
   ],
-  "lastUpdated": "2026-08-23T15:10:23.172Z"
+  "lastUpdated": "2026-08-23T18:12:19.476Z"
 }
