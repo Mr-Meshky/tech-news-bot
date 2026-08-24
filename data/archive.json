@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "مشخصات ردمی K100 پرو بار دیگر لو رفت؛ حالا تقریبا همه‌چیز را می‌دانیم",
-      "url": "https://www.zoomit.ir/mobile/463210-redmi-k100-pro-specs-leak/",
-      "source": "Zoomit",
-      "category": "other",
-      "postedAt": "2026-07-17T12:58:48.534Z"
-    },
-    {
       "title": "The Eureka Database",
       "url": "https://www.producthunt.com/products/the-eureka-database",
       "source": "Product Hunt",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "gadgets",
       "postedAt": "2026-08-24T18:21:40.386Z"
+    },
+    {
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-08-24T21:17:42.759Z"
     }
   ],
-  "lastUpdated": "2026-08-24T18:21:40.388Z"
+  "lastUpdated": "2026-08-24T21:17:42.761Z"
 }
