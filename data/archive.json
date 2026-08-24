@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Two Trump health nominees crash and burn in tense Senate hearing",
-      "url": "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-      "source": "Ars Technica",
-      "category": "other",
-      "postedAt": "2026-07-17T01:25:18.497Z"
-    },
-    {
       "title": "Decoy Font",
       "url": "https://www.mixfont.com/experiments/decoy-font",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-08-24T06:32:54.583Z"
+    },
+    {
+      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
+      "url": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
+      "source": "TechCrunch",
+      "category": "mobile",
+      "postedAt": "2026-08-24T09:34:45.086Z"
     }
   ],
-  "lastUpdated": "2026-08-24T06:32:54.584Z"
+  "lastUpdated": "2026-08-24T09:34:45.088Z"
 }
