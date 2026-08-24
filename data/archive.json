@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "source": "MIT Tech Review",
-      "category": "other",
-      "postedAt": "2026-07-17T10:28:46.977Z"
-    },
-    {
       "title": "مشخصات ردمی K100 پرو بار دیگر لو رفت؛ حالا تقریبا همه‌چیز را می‌دانیم",
       "url": "https://www.zoomit.ir/mobile/463210-redmi-k100-pro-specs-leak/",
       "source": "Zoomit",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "game",
       "postedAt": "2026-08-24T15:27:49.099Z"
+    },
+    {
+      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "postedAt": "2026-08-24T18:21:40.386Z"
     }
   ],
-  "lastUpdated": "2026-08-24T15:27:49.101Z"
+  "lastUpdated": "2026-08-24T18:21:40.388Z"
 }
