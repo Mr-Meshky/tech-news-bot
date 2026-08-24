@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
-      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
-      "source": "Wired",
-      "category": "other",
-      "postedAt": "2026-07-17T07:49:45.494Z"
-    },
-    {
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
       "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
       "source": "MIT Tech Review",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-08-24T12:21:47.640Z"
+    },
+    {
+      "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+      "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+      "source": "The Verge",
+      "category": "game",
+      "postedAt": "2026-08-24T15:27:49.099Z"
     }
   ],
-  "lastUpdated": "2026-08-24T12:21:47.641Z"
+  "lastUpdated": "2026-08-24T15:27:49.101Z"
 }
