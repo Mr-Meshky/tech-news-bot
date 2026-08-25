@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-18T01:16:59.779Z"
-    },
-    {
       "title": "Microsoft Comic Chat is now open source",
       "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-08-25T06:23:43.637Z"
+    },
+    {
+      "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+      "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-08-25T09:23:02.385Z"
     }
   ],
-  "lastUpdated": "2026-08-25T06:23:43.639Z"
+  "lastUpdated": "2026-08-25T09:23:02.386Z"
 }
