@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The Eureka Database",
-      "url": "https://www.producthunt.com/products/the-eureka-database",
-      "source": "Product Hunt",
-      "category": "other",
-      "postedAt": "2026-07-17T16:06:52.283Z"
-    },
-    {
       "title": "Apple targets dozens of OpenAI employees with legal letters",
       "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-08-24T21:17:42.759Z"
+    },
+    {
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-08-25T00:35:17.995Z"
     }
   ],
-  "lastUpdated": "2026-08-24T21:17:42.761Z"
+  "lastUpdated": "2026-08-25T00:35:17.996Z"
 }
