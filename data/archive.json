@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-07-18T10:07:35.666Z"
-    },
-    {
       "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
       "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "mobile",
       "postedAt": "2026-08-25T15:31:35.046Z"
+    },
+    {
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-08-25T18:21:13.733Z"
     }
   ],
-  "lastUpdated": "2026-08-25T15:31:35.047Z"
+  "lastUpdated": "2026-08-25T18:21:13.735Z"
 }
