@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "It's official: EU will force Google to share search data and open up AI on Android",
-      "url": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
-      "source": "Ars Technica",
-      "category": "web",
-      "postedAt": "2026-07-18T07:24:16.083Z"
-    },
-    {
       "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
       "url": "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-08-25T12:22:35.417Z"
+    },
+    {
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "source": "Hacker News",
+      "category": "mobile",
+      "postedAt": "2026-08-25T15:31:35.046Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:22:35.418Z"
+  "lastUpdated": "2026-08-25T15:31:35.047Z"
 }
