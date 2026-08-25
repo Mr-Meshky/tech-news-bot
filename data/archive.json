@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
-      "url": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
-      "source": "Ars Technica",
-      "category": "programming",
-      "postedAt": "2026-07-18T12:45:09.773Z"
-    },
-    {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
       "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-08-25T18:21:13.733Z"
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-08-25T21:15:53.684Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:21:13.735Z"
+  "lastUpdated": "2026-08-25T21:15:53.685Z"
 }
