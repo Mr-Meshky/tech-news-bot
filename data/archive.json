@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Apple targets dozens of OpenAI employees with legal letters",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-17T18:52:08.331Z"
-    },
-    {
       "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
       "url": "https://news.ycombinator.com/item?id=48945241",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-08-25T00:35:17.995Z"
+    },
+    {
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-25T03:37:58.470Z"
     }
   ],
-  "lastUpdated": "2026-08-25T00:35:17.996Z"
+  "lastUpdated": "2026-08-25T03:37:58.471Z"
 }
