@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-17T21:40:03.003Z"
-    },
-    {
       "title": "Kimi K3: Open Frontier Intelligence",
       "url": "https://www.kimi.com/blog/kimi-k3",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-08-25T03:37:58.470Z"
+    },
+    {
+      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-08-25T06:23:43.637Z"
     }
   ],
-  "lastUpdated": "2026-08-25T03:37:58.471Z"
+  "lastUpdated": "2026-08-25T06:23:43.639Z"
 }
