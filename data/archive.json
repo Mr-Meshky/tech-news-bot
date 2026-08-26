@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-19T10:18:14.362Z"
-    },
-    {
       "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
       "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "web",
       "postedAt": "2026-08-26T16:08:01.732Z"
+    },
+    {
+      "title": "Nothing OS 5.0 brings a new Glyph Interface app and a more customizable homescreen",
+      "url": "https://www.theverge.com/gadgets/984430/nothing-os-5-launch-android-17",
+      "source": "The Verge",
+      "category": "mobile",
+      "postedAt": "2026-08-26T19:29:25.798Z"
     }
   ],
-  "lastUpdated": "2026-08-26T16:08:01.733Z"
+  "lastUpdated": "2026-08-26T19:29:25.800Z"
 }
