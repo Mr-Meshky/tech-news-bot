@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-07-19T01:23:22.509Z"
-    },
-    {
       "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
       "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-08-26T06:26:06.289Z"
+    },
+    {
+      "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "source": "TechCrunch",
+      "category": "science",
+      "postedAt": "2026-08-26T09:28:57.860Z"
     }
   ],
-  "lastUpdated": "2026-08-26T06:26:06.291Z"
+  "lastUpdated": "2026-08-26T09:28:57.862Z"
 }
