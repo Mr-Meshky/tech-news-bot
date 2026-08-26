@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-18T18:44:43.688Z"
-    },
-    {
       "title": "What AI did to stackoverflow in a graph",
       "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-08-26T00:36:06.690Z"
+    },
+    {
+      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
+      "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "postedAt": "2026-08-26T03:42:42.656Z"
     }
   ],
-  "lastUpdated": "2026-08-26T00:36:06.691Z"
+  "lastUpdated": "2026-08-26T03:42:42.658Z"
 }
