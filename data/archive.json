@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-19T07:55:14.193Z"
-    },
-    {
       "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-08-26T12:24:55.954Z"
+    },
+    {
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "source": "TechCrunch",
+      "category": "web",
+      "postedAt": "2026-08-26T16:08:01.732Z"
     }
   ],
-  "lastUpdated": "2026-08-26T12:24:55.956Z"
+  "lastUpdated": "2026-08-26T16:08:01.733Z"
 }
