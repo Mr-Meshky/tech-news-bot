@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Amazon fixing bug that billed some AWS customers billions of dollars",
-      "url": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-      "source": "TechCrunch",
-      "category": "web",
-      "postedAt": "2026-07-19T12:46:55.755Z"
-    },
-    {
       "title": "Federal employees can download TikTok on their work phones again",
       "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "mobile",
       "postedAt": "2026-08-26T19:29:25.798Z"
+    },
+    {
+      "title": "Trump is upping the price of Big Tech’s favorite visa",
+      "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+      "source": "The Verge",
+      "category": "other",
+      "postedAt": "2026-08-27T00:19:15.308Z"
     }
   ],
-  "lastUpdated": "2026-08-26T19:29:25.800Z"
+  "lastUpdated": "2026-08-27T00:19:15.309Z"
 }
