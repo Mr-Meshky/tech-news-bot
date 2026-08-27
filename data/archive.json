@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Federal employees can download TikTok on their work phones again",
-      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-07-19T15:43:49.008Z"
-    },
-    {
       "title": "Qwen 3.8",
       "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "other",
       "postedAt": "2026-08-27T00:19:15.308Z"
+    },
+    {
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-08-27T13:16:32.964Z"
     }
   ],
-  "lastUpdated": "2026-08-27T00:19:15.309Z"
+  "lastUpdated": "2026-08-27T13:16:32.965Z"
 }
