@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-19T18:47:19.177Z"
-    },
-    {
       "title": "AI-driven memory crunch jolts India’s smartphone market",
       "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-08-27T13:16:32.964Z"
+    },
+    {
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "source": "The Verge",
+      "category": "security",
+      "postedAt": "2026-08-28T00:08:10.300Z"
     }
   ],
-  "lastUpdated": "2026-08-27T13:16:32.965Z"
+  "lastUpdated": "2026-08-28T00:08:10.302Z"
 }
