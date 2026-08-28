@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-07-19T21:39:54.986Z"
-    },
-    {
       "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
       "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "security",
       "postedAt": "2026-08-28T00:08:10.300Z"
+    },
+    {
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "source": "Ars Technica",
+      "category": "web",
+      "postedAt": "2026-08-28T14:39:30.775Z"
     }
   ],
-  "lastUpdated": "2026-08-28T00:08:10.302Z"
+  "lastUpdated": "2026-08-28T14:39:30.776Z"
 }
