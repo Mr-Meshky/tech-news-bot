@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-20T08:51:56.736Z"
-    },
-    {
       "title": "Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "mobile",
       "postedAt": "2026-09-13T19:41:02.211Z"
+    },
+    {
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "source": "TechCrunch",
+      "category": "security",
+      "postedAt": "2026-09-13T22:56:04.808Z"
     }
   ],
-  "lastUpdated": "2026-09-13T19:41:02.213Z"
+  "lastUpdated": "2026-09-13T22:56:04.810Z"
 }
