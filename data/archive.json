@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch",
-      "category": "other",
-      "postedAt": "2026-07-20T05:58:13.754Z"
-    },
-    {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
       "url": "https://news.ycombinator.com/item?id=48968606",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-09-13T19:40:00.467Z"
+    },
+    {
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "source": "TechCrunch",
+      "category": "mobile",
+      "postedAt": "2026-09-13T19:41:02.211Z"
     }
   ],
-  "lastUpdated": "2026-09-13T19:40:00.469Z"
+  "lastUpdated": "2026-09-13T19:41:02.213Z"
 }
