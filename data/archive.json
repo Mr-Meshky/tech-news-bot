@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-07-20T01:26:57.526Z"
-    },
-    {
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
       "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "web",
       "postedAt": "2026-08-28T14:39:30.775Z"
+    },
+    {
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-09-13T19:40:00.467Z"
     }
   ],
-  "lastUpdated": "2026-08-28T14:39:30.776Z"
+  "lastUpdated": "2026-09-13T19:40:00.469Z"
 }
