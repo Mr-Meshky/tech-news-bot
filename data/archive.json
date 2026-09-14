@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The future of physical games is not looking great",
-      "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
-      "source": "The Verge",
-      "category": "game",
-      "postedAt": "2026-07-20T16:19:04.967Z"
-    },
-    {
       "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
       "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-09-14T12:04:21.129Z"
+    },
+    {
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge",
+      "category": "security",
+      "postedAt": "2026-09-14T19:44:41.259Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:04:21.130Z"
+  "lastUpdated": "2026-09-14T19:44:41.261Z"
 }
