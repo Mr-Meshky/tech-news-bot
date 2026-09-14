@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-20T11:33:37.052Z"
-    },
-    {
       "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
       "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-09-13T22:56:04.808Z"
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-09-14T03:46:01.001Z"
     }
   ],
-  "lastUpdated": "2026-09-13T22:56:04.810Z"
+  "lastUpdated": "2026-09-14T03:46:01.002Z"
 }
