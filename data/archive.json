@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Natural raises $30M to reinvent payments for AI agents — and take on Stripe",
-      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
-      "source": "TechCrunch",
-      "category": "other",
-      "postedAt": "2026-07-20T19:23:28.523Z"
-    },
-    {
       "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
       "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "security",
       "postedAt": "2026-09-14T19:44:41.259Z"
+    },
+    {
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-09-14T23:42:28.117Z"
     }
   ],
-  "lastUpdated": "2026-09-14T19:44:41.261Z"
+  "lastUpdated": "2026-09-14T23:42:28.119Z"
 }
