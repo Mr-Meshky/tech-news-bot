@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Google-backed satellites for wildfire detection launch as smoke chokes US, Canada",
-      "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-      "source": "Ars Technica",
-      "category": "science",
-      "postedAt": "2026-07-20T13:43:58.843Z"
-    },
-    {
       "title": "The future of physical games is not looking great",
       "url": "https://www.theverge.com/column/967179/physical-discs-gta-vi-playstation-rockstar-games",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-09-14T03:46:01.001Z"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-09-14T12:04:21.129Z"
     }
   ],
-  "lastUpdated": "2026-09-14T03:46:01.002Z"
+  "lastUpdated": "2026-09-14T12:04:21.130Z"
 }
