@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Ford&#8217;s $30,000 electric truck: all the news about the company&#8217;s big EV re-do",
-      "url": "https://www.theverge.com/transportation/968205/ford-electric-truck-uev-30000-affordable",
-      "source": "The Verge",
-      "category": "other",
-      "postedAt": "2026-07-20T21:54:15.034Z"
-    },
-    {
       "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
       "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-09-14T23:42:28.117Z"
+    },
+    {
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-09-15T03:46:36.142Z"
     }
   ],
-  "lastUpdated": "2026-09-14T23:42:28.119Z"
+  "lastUpdated": "2026-09-15T03:46:36.143Z"
 }
