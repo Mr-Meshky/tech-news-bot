@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-      "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-      "source": "Hacker News",
-      "category": "other",
-      "postedAt": "2026-07-21T05:39:35.594Z"
-    },
-    {
       "title": "Even Mild Sleep Deprivation May Lead to Weight Gain",
       "url": "https://www.wired.com/story/even-mild-sleep-deprivation-may-lead-to-weight-gain/",
       "source": "Wired",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "mobile",
       "postedAt": "2026-09-15T11:16:03.507Z"
+    },
+    {
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "source": "TechCrunch",
+      "category": "web",
+      "postedAt": "2026-09-15T16:26:48.947Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:16:03.508Z"
+  "lastUpdated": "2026-09-15T16:26:48.948Z"
 }
