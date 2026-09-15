@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "F1 in Belgium: Machine learning algorithms are ruining the sport",
-      "url": "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
-      "source": "Ars Technica",
-      "category": "other",
-      "postedAt": "2026-07-21T01:22:53.492Z"
-    },
-    {
       "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
       "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-09-15T03:46:36.142Z"
+    },
+    {
+      "title": "Apple’s new phones are here",
+      "url": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+      "source": "The Verge",
+      "category": "mobile",
+      "postedAt": "2026-09-15T11:16:03.507Z"
     }
   ],
-  "lastUpdated": "2026-09-15T03:46:36.143Z"
+  "lastUpdated": "2026-09-15T11:16:03.508Z"
 }
