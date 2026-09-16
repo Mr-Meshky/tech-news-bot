@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
-      "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-      "source": "Wired",
-      "category": "security",
-      "postedAt": "2026-07-22T01:21:26.270Z"
-    },
-    {
       "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
       "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-09-16T20:57:32.116Z"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "source": "Hacker News",
+      "category": "gadgets",
+      "postedAt": "2026-09-16T23:36:09.188Z"
     }
   ],
-  "lastUpdated": "2026-09-16T20:57:32.118Z"
+  "lastUpdated": "2026-09-16T23:36:09.189Z"
 }
