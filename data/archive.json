@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "از نیش عقرب تا خار کاکتوس؛ چرا تکامل هرگز سلاحی کامل برای موجودات زنده نساخته است؟",
-      "url": "https://www.zoomit.ir/biology/463430-nature-perfect-weapon-species/",
-      "source": "Zoomit",
-      "category": "other",
-      "postedAt": "2026-07-21T13:11:18.061Z"
-    },
-    {
       "title": "Fuzzy AI",
       "url": "https://www.producthunt.com/products/fuzzy-ai-2",
       "source": "Product Hunt",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "gadgets",
       "postedAt": "2026-09-15T23:27:44.336Z"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-09-16T03:46:33.084Z"
     }
   ],
-  "lastUpdated": "2026-09-15T23:27:44.337Z"
+  "lastUpdated": "2026-09-16T03:46:33.085Z"
 }
