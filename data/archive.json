@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Fuzzy AI",
-      "url": "https://www.producthunt.com/products/fuzzy-ai-2",
-      "source": "Product Hunt",
-      "category": "other",
-      "postedAt": "2026-07-21T16:13:14.698Z"
-    },
-    {
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-09-16T03:46:33.084Z"
+    },
+    {
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "source": "TechCrunch",
+      "category": "science",
+      "postedAt": "2026-09-16T10:58:00.858Z"
     }
   ],
-  "lastUpdated": "2026-09-16T03:46:33.085Z"
+  "lastUpdated": "2026-09-16T10:58:00.860Z"
 }
