@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-21T19:03:16.314Z"
-    },
-    {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "science",
       "postedAt": "2026-09-16T10:58:00.858Z"
+    },
+    {
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-09-16T16:17:51.425Z"
     }
   ],
-  "lastUpdated": "2026-09-16T10:58:00.860Z"
+  "lastUpdated": "2026-09-16T16:17:51.427Z"
 }
