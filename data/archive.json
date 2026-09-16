@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-21T21:52:36.678Z"
-    },
-    {
       "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
       "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
       "source": "Wired",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-09-16T16:17:51.425Z"
+    },
+    {
+      "title": "An update on Wayback Machine access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-09-16T20:57:32.116Z"
     }
   ],
-  "lastUpdated": "2026-09-16T16:17:51.427Z"
+  "lastUpdated": "2026-09-16T20:57:32.118Z"
 }
