@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "اپل طبق گزارش‌ها داره روی یه سرور مخصوص AI کار می‌کنه که قراره از چیپ‌های M-series Ultra خودش استفاده کنه.\n\nاگه این پروژه تا ۲۰۲۹ به نتیجه برسه، اپل بعد از تقریبا ۲۰ سال دوباره وارد بازار سرورهای سازمانی میشه. (آخرین سرورشون Xserve بود).\n\nظاهرا استقبال شدید شرکتای AI مثل OpenAI و Anthropic از مک‌مینی و مک‌استودیو برای ران کردن ورک‌لودهای AI، اپل رو حسابی تشویق کرده. حتی میگن ده‌ها هزار مک‌مینی و مک‌استودیو خریدن!\n\nاین سرورها احتمالا با دو یا چهار چیپ M8 Ultra (نسل بعدی) عرضه میشن. نکته جالب‌تر اینکه ممکنه از تکنولوژی NVLink Fusion انویدیا هم استفاده کنن که همکاری عجیبیه با توجه به رویکرد اپل.\n\nالبته تا ۲۰۲۹ خیلی مونده و این پروژه میتونه کنسل شه یا بدون همکاری انویدیا پیش بره. ولی این یعنی اپل هم داره جدی‌تر وارد حوزه سخت‌افزار AI میشه.\n\nباید دید توی بازار به شدت رقابتی اون سال، این محصول چطور میتونه خودشو نشون بده. چالش کمبود چیپ‌های حافظه هم که هنوز پابرجاست.",
-      "linkUrl": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "source": "Ars Technica",
-      "category": "ai",
-      "hashtags": "#هوش_مصنوعی #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-1152x648.jpg",
-      "mediaType": "photo"
-    },
-    {
       "body": "خبر بد برای اونایی که رو AWS حساب ویژه‌ای باز کرده بودن: آمازون رسما تایید کرده حملات پهپادی ایران به دیتاسنترهاش تو بحرین و امارات باعث از بین رفتن همیشگی بخشی از دیتای مشتری‌ها شده. 🤯\n\nAWS خودش گفته این حجم از تخریب از چیزی که برای تحمل حملات تو چند Availability Zone طراحی شده، بیشتر بوده. یعنی دیگه فقط یه دیتاسنتر نرفته، کل یک منطقه (یا چندتا AZ) تحت تاثیر قرار گرفته.\n\n• تو بحرین هر سه تا Availability Zone کلا از دست رفتن.\n• تو امارات هم حداقل یک Availability Zone (mec1-az2) دیتای مشتری‌هاش رو برای همیشه از دست داده.\n\nاین نشون میده چقدر مهمه که پلن Disaster Recovery فراتر از یه منطقه جغرافیایی داشته باشیم، حتی اگه سرویس‌دهنده‌مون AWS باشه. صرفا Multi-AZ بودن شاید کافی نباشه. همیشه بک‌آپ‌های آف‌سایت و منطقه‌ای رو جدی بگیرید، مخصوصا تو مناطق پرریسک.",
       "linkUrl": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
       "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
@@ -49,5 +39,5 @@
       "mediaType": "photo"
     }
   ],
-  "lastUpdated": "2026-09-17T03:51:12.244Z"
+  "lastUpdated": "2026-09-17T11:08:16.847Z"
 }
