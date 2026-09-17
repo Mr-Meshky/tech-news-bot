@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Incremental – A library for incremental computations",
-      "url": "https://github.com/janestreet/incremental",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-22T13:17:15.396Z"
-    },
-    {
       "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned",
       "url": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-09-17T16:24:59.118Z"
+    },
+    {
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-09-17T21:01:06.818Z"
     }
   ],
-  "lastUpdated": "2026-09-17T16:24:59.119Z"
+  "lastUpdated": "2026-09-17T21:01:06.819Z"
 }
