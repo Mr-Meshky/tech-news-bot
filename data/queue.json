@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "خبر بد برای اونایی که رو AWS حساب ویژه‌ای باز کرده بودن: آمازون رسما تایید کرده حملات پهپادی ایران به دیتاسنترهاش تو بحرین و امارات باعث از بین رفتن همیشگی بخشی از دیتای مشتری‌ها شده. 🤯\n\nAWS خودش گفته این حجم از تخریب از چیزی که برای تحمل حملات تو چند Availability Zone طراحی شده، بیشتر بوده. یعنی دیگه فقط یه دیتاسنتر نرفته، کل یک منطقه (یا چندتا AZ) تحت تاثیر قرار گرفته.\n\n• تو بحرین هر سه تا Availability Zone کلا از دست رفتن.\n• تو امارات هم حداقل یک Availability Zone (mec1-az2) دیتای مشتری‌هاش رو برای همیشه از دست داده.\n\nاین نشون میده چقدر مهمه که پلن Disaster Recovery فراتر از یه منطقه جغرافیایی داشته باشیم، حتی اگه سرویس‌دهنده‌مون AWS باشه. صرفا Multi-AZ بودن شاید کافی نباشه. همیشه بک‌آپ‌های آف‌سایت و منطقه‌ای رو جدی بگیرید، مخصوصا تو مناطق پرریسک.",
-      "linkUrl": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
-      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AWS-data-center-in-Abu-Dhabi-1152x648.jpg",
-      "mediaType": "photo"
-    },
-    {
       "body": "یه خبر جالب برای دیتابیس کارها و کسایی که با پرفورمنس کوئری درگیرن! 🚀\nظاهرا یه مدل 4B تونسته query planهایی تولید کنه که ۸۱٪ سریع‌تر از Postgres هستن.\n\nمیدونیم که Postgres تو بهینه‌سازی کوئری همیشه بهترین نیست، مخصوصا تو join ordering که NP-hard محسوب میشه.\nولی نکته‌اش اینجاست: پیدا کردن بهترین پلن سخته، اما اینکه بفهمی یه پلن خوبه یا نه، راحته (فقط کافیه ببینی چقدر سریع اجرا میشه).\n\nهمین ویژگی باعث شده بشه از Reinforcement Learning استفاده کرد. یعنی یه مدل LLM کوچیک رو طوری آموزش دادن که یاد بگیره چه پلن‌هایی سریع‌ترن و اونا رو تولید کنه.\nنتیجه؟ یه مدل 4B که با SFT و RL آموزش دیده، تونسته تو دیتای IMDb پلن‌هایی بده که ۸۱٪ سریع‌تر از پیش‌فرض Postgres اجرا میشن.\n\nاین یعنی شاید به زودی دیگه نیازی نباشه دستی query رو tune کنیم و یه AI می‌تونه کارمون رو راحت‌تر کنه.\nالبته هنوز تو فاز تحقیقاته، ولی پتانسیلش واقعا بالاست.",
       "linkUrl": "https://rohanbansal.com/qorl",
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
@@ -39,5 +29,5 @@
       "mediaType": "photo"
     }
   ],
-  "lastUpdated": "2026-09-17T11:08:16.847Z"
+  "lastUpdated": "2026-09-17T16:24:59.126Z"
 }
