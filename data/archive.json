@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
-      "url": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-07-22T05:38:29.966Z"
-    },
-    {
       "title": "Data centers expected to use 4x more electricity by 2035",
       "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "gadgets",
       "postedAt": "2026-09-16T23:36:09.188Z"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-09-17T03:51:12.240Z"
     }
   ],
-  "lastUpdated": "2026-09-16T23:36:09.189Z"
+  "lastUpdated": "2026-09-17T03:51:12.242Z"
 }
