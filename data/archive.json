@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-07-23T05:42:56.637Z"
-    },
-    {
       "title": "AMD commits up to $5 billion to  Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-09-18T20:31:41.303Z"
+    },
+    {
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-09-18T23:04:35.839Z"
     }
   ],
-  "lastUpdated": "2026-09-18T20:31:41.304Z"
+  "lastUpdated": "2026-09-18T23:04:35.841Z"
 }
