@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
-      "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-07-23T13:19:47.366Z"
-    },
-    {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-09-19T10:28:36.701Z"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-09-19T15:30:03.661Z"
     }
   ],
-  "lastUpdated": "2026-09-19T10:28:36.702Z"
+  "lastUpdated": "2026-09-19T15:30:03.663Z"
 }
