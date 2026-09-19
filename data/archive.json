@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-07-23T18:58:12.997Z"
-    },
-    {
       "title": "US government says Iran-linked hackers are disrupting American water and energy providers",
       "url": "https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-09-19T20:09:31.258Z"
+    },
+    {
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-09-19T22:42:17.347Z"
     }
   ],
-  "lastUpdated": "2026-09-19T20:09:31.260Z"
+  "lastUpdated": "2026-09-19T22:42:17.349Z"
 }
