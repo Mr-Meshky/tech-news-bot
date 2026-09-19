@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "source": "The Verge",
-      "category": "ai",
-      "postedAt": "2026-07-23T08:07:53.005Z"
-    },
-    {
       "title": "Samsung unveils new Galaxy Z8 foldables and Galaxy Watches, available August 7",
       "url": "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-09-18T23:04:35.839Z"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-09-19T03:32:19.965Z"
     }
   ],
-  "lastUpdated": "2026-09-18T23:04:35.841Z"
+  "lastUpdated": "2026-09-19T03:32:19.966Z"
 }
