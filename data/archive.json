@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-07-24T05:39:25.136Z"
-    },
-    {
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-09-20T10:47:15.466Z"
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "Hacker News",
+      "category": "mobile",
+      "postedAt": "2026-09-20T15:35:16.935Z"
     }
   ],
-  "lastUpdated": "2026-09-20T10:47:15.468Z"
+  "lastUpdated": "2026-09-20T15:35:16.936Z"
 }
