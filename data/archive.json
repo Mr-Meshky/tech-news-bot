@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-07-24T01:25:15.553Z"
-    },
-    {
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-09-20T03:48:06.957Z"
+    },
+    {
+      "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+      "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-09-20T10:47:15.466Z"
     }
   ],
-  "lastUpdated": "2026-09-20T03:48:06.959Z"
+  "lastUpdated": "2026-09-20T10:47:15.468Z"
 }
