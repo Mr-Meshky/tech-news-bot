@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-07-24T21:55:18.478Z"
-    },
-    {
       "title": "My security camera shipped a GitHub admin token in its login page",
       "url": "https://hhh.hn/hanwha-github-token/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-09-21T12:11:41.269Z"
+    },
+    {
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "source": "Hacker News",
+      "category": "other",
+      "postedAt": "2026-09-21T19:52:49.570Z"
     }
   ],
-  "lastUpdated": "2026-09-21T12:11:41.270Z"
+  "lastUpdated": "2026-09-21T19:52:49.572Z"
 }
