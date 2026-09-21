@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-      "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-07-24T13:13:49.622Z"
-    },
-    {
       "title": "Software rendering in 500 lines of bare C++",
       "url": "https://haqr.eu/tinyrenderer/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-09-20T23:04:36.493Z"
+    },
+    {
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-09-21T03:44:28.155Z"
     }
   ],
-  "lastUpdated": "2026-09-20T23:04:36.494Z"
+  "lastUpdated": "2026-09-21T03:44:28.156Z"
 }
