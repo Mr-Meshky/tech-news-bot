@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-25T01:25:22.637Z"
-    },
-    {
       "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
       "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "other",
       "postedAt": "2026-09-21T19:52:49.570Z"
+    },
+    {
+      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+      "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-09-21T23:52:56.198Z"
     }
   ],
-  "lastUpdated": "2026-09-21T19:52:49.572Z"
+  "lastUpdated": "2026-09-21T23:52:56.200Z"
 }
