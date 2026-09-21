@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-24T19:08:49.797Z"
-    },
-    {
       "title": "Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-09-21T03:44:28.155Z"
+    },
+    {
+      "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+      "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-09-21T12:11:41.269Z"
     }
   ],
-  "lastUpdated": "2026-09-21T03:44:28.156Z"
+  "lastUpdated": "2026-09-21T12:11:41.270Z"
 }
