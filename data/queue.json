@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "ببین چی شده! یه ماجرای باحال تو آمریکا: سایت The Federal Register که اسناد دولتی رو میذاره، از یه مدل AI چینی برای سرچ استفاده کرده بود. 🤦‍♂️\n\nحالا باحالیش کجاست؟ FBI همین چند وقت پیش رسما اعلام کرده بود شرکتایی مثل علی‌بابا (که همین مدل Qwen مال اونه) دارن از مدل‌های آمریکایی کپی‌برداری می‌کنن و اینا \"malicious\" و خطرناکن! 😅 یعنی خودشون می‌گفتن بده، بعد سایت دولتی خودشون می‌رفته سراغش.\n\nظاهرا یه کاربری توی X (توئیتر سابق) اینو پیدا کرده و اسکرین‌شاتش رو پخش کرده. سریع هم برش داشتن.\n\nالبته کارشناسا میگن ریسک امنیتی خاصی نداشته، چون اطلاعات این سایت عمومی‌ان و چیزی لو نرفته. ولی خب تناقض حرف و عمل دولت آمریکا تو حوزه تکنولوژی و AI واقعا جالبه.",
-      "linkUrl": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-      "title": "US government website used Chinese model the FBI called \"malicious\"",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2260760373-1024x648.jpg",
-      "mediaType": "photo"
-    },
-    {
       "body": "ترامپ گفته وقتشه اسم AI رو عوض کنیم و یه \"AI Force\" هم میسازه! 🫠\n\nایشون اعتقاد داره \"Artificial Intelligence\" اسم خوبی نیست و تو یه نظرسنجی آنلاین اسمایی مثل Superior Intelligence یا Extreme Intelligence رو پیشنهاد داده.\n\nجالب‌تر اینکه، تمام نگرانی‌های مربوط به ایمنی AI رو \"فقط یه دروغ چپ‌های رادیکال\" دونسته، بدون هیچ مدرکی. همون حرفای همیشگی خودش درباره گلوبال وارمینگ و بقیه چیزا.\n\nگفته برای \"حفظ\" صنعت AI یه \"AI Force\" مثل Space Force میسازه و یه \"AI Czar\" هم منصوب می‌کنه. جالب اینکه تاکید کرده فقط افراد با IQ بالا میتونن برای این پوزیشن درخواست بدن! 😅\n\nکلا خیلی از مسائل رو بی‌مدرک و سیاسی می‌کنه. باید دید این \"AI Force\" قراره چیکار کنه یا فقط یه اسم دهن پرکنه برای جلب توجه.",
       "linkUrl": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
@@ -27,5 +17,5 @@
       "hashtags": "#موبایل #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-09-21T23:52:56.201Z"
+  "lastUpdated": "2026-09-22T03:42:21.902Z"
 }
