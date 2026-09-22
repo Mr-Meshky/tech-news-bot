@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
-      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-25T15:54:34.217Z"
-    },
-    {
       "title": "If coding has been solved, why does software keep getting worse?",
       "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "other",
       "postedAt": "2026-09-22T20:59:58.913Z"
+    },
+    {
+      "title": "Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy",
+      "url": "https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale",
+      "source": "The Verge",
+      "category": "other",
+      "postedAt": "2026-09-22T23:34:01.720Z"
     }
   ],
-  "lastUpdated": "2026-09-22T20:59:58.914Z"
+  "lastUpdated": "2026-09-22T23:34:01.722Z"
 }
