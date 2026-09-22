@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-07-25T10:19:22.946Z"
-    },
-    {
       "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
       "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-09-22T11:05:58.785Z"
+    },
+    {
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "source": "TechCrunch",
+      "category": "mobile",
+      "postedAt": "2026-09-22T16:26:31.035Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:05:58.786Z"
+  "lastUpdated": "2026-09-22T16:26:31.037Z"
 }
