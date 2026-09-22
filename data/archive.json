@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "url": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "source": "Ars Technica",
-      "category": "science",
-      "postedAt": "2026-07-25T12:56:31.171Z"
-    },
-    {
       "title": "Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey",
       "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "mobile",
       "postedAt": "2026-09-22T16:26:31.035Z"
+    },
+    {
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "source": "TechCrunch",
+      "category": "other",
+      "postedAt": "2026-09-22T20:59:58.913Z"
     }
   ],
-  "lastUpdated": "2026-09-22T16:26:31.037Z"
+  "lastUpdated": "2026-09-22T20:59:58.914Z"
 }
