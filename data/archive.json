@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "If coding has been solved, why does software keep getting worse?",
-      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-25T18:46:26.596Z"
-    },
-    {
       "title": "Android May Soon Restrict On-Device ADB",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "other",
       "postedAt": "2026-09-22T23:34:01.720Z"
+    },
+    {
+      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+      "source": "Ars Technica",
+      "category": "other",
+      "postedAt": "2026-09-23T03:41:25.118Z"
     }
   ],
-  "lastUpdated": "2026-09-22T23:34:01.722Z"
+  "lastUpdated": "2026-09-23T03:41:25.120Z"
 }
