@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "source": "Wired",
-      "category": "ai",
-      "postedAt": "2026-07-26T01:28:44.525Z"
-    },
-    {
       "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
       "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "other",
       "postedAt": "2026-09-23T10:55:47.424Z"
+    },
+    {
+      "title": "How to Claim Your Cut of Apple’s $250 Million Siri Settlement",
+      "url": "https://www.wired.com/story/how-to-claim-your-cut-of-apple-250-million-siri-settlement/",
+      "source": "Wired",
+      "category": "other",
+      "postedAt": "2026-09-23T16:16:16.647Z"
     }
   ],
-  "lastUpdated": "2026-09-23T10:55:47.425Z"
+  "lastUpdated": "2026-09-23T16:16:16.651Z"
 }
