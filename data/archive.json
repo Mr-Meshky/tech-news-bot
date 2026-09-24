@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The hacker who humiliated spyware makers and was never caught",
-      "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-07-26T10:26:51.736Z"
-    },
-    {
       "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
       "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Zoomit",
       "category": "other",
       "postedAt": "2026-09-24T03:32:33.749Z"
+    },
+    {
+      "title": "Keet",
+      "url": "https://www.producthunt.com/products/keet-2",
+      "source": "Product Hunt",
+      "category": "other",
+      "postedAt": "2026-09-24T11:15:06.626Z"
     }
   ],
-  "lastUpdated": "2026-09-24T03:32:33.751Z"
+  "lastUpdated": "2026-09-24T11:15:06.628Z"
 }
