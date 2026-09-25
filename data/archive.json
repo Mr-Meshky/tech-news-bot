@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Big Tech accused of stonewalling European social media researchers",
-      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-      "source": "Ars Technica",
-      "category": "web",
-      "postedAt": "2026-07-26T18:52:35.274Z"
-    },
-    {
       "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
       "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-09-24T21:14:16.009Z"
+    },
+    {
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-09-25T03:49:20.079Z"
     }
   ],
-  "lastUpdated": "2026-09-24T21:14:16.010Z"
+  "lastUpdated": "2026-09-25T03:49:20.081Z"
 }
