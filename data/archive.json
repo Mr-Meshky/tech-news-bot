@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-07-27T06:15:54.448Z"
-    },
-    {
       "title": "Apple is banking on privacy to set its smart glasses apart",
       "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-09-25T16:44:28.139Z"
+    },
+    {
+      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-09-25T21:11:10.728Z"
     }
   ],
-  "lastUpdated": "2026-09-25T16:44:28.141Z"
+  "lastUpdated": "2026-09-25T21:11:10.730Z"
 }
