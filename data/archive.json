@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Apple is banking on privacy to set its smart glasses apart",
-      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy",
-      "source": "The Verge",
-      "category": "gadgets",
-      "postedAt": "2026-07-27T12:09:02.663Z"
-    },
-    {
       "title": "The US is charging an American citizen for wiping his phone at the border",
       "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-09-25T21:11:10.728Z"
+    },
+    {
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "postedAt": "2026-09-26T03:55:26.076Z"
     }
   ],
-  "lastUpdated": "2026-09-25T21:11:10.730Z"
+  "lastUpdated": "2026-09-26T03:55:26.077Z"
 }
