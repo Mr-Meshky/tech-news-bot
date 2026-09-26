@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Kill The Cookie Banner",
-      "url": "https://killthecookiebanner.eu/",
-      "source": "Hacker News",
-      "category": "web",
-      "postedAt": "2026-07-27T21:54:59.972Z"
-    },
-    {
       "title": "GrapheneOS protections against data extraction from locked devices",
       "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-09-26T15:58:09.323Z"
+    },
+    {
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "url": "https://ollaya.dev/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-09-26T20:43:56.401Z"
     }
   ],
-  "lastUpdated": "2026-09-26T15:58:09.324Z"
+  "lastUpdated": "2026-09-26T20:43:56.403Z"
 }
