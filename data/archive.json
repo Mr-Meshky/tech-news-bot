@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-07-28T08:11:26.425Z"
-    },
-    {
       "title": "Why China is giving away its best AI models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-09-27T04:05:22.931Z"
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "postedAt": "2026-09-27T11:33:25.065Z"
     }
   ],
-  "lastUpdated": "2026-09-27T04:05:22.932Z"
+  "lastUpdated": "2026-09-27T11:33:25.067Z"
 }
