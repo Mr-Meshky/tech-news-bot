@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-28T16:27:16.238Z"
-    },
-    {
       "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
       "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "science",
       "postedAt": "2026-09-27T21:00:01.484Z"
+    },
+    {
+      "title": "What even is an OS now?",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-09-27T23:46:10.421Z"
     }
   ],
-  "lastUpdated": "2026-09-27T21:00:01.485Z"
+  "lastUpdated": "2026-09-27T23:46:10.422Z"
 }
