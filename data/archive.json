@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Amazon’s new satellite network for mobile phones could turn up the heat on SpaceX",
-      "url": "https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-07-28T19:03:25.795Z"
-    },
-    {
       "title": "5th Circuit blocks Texas law requiring websites to filter \"harmful\" speech",
       "url": "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-09-27T23:46:10.421Z"
+    },
+    {
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "source": "The Verge",
+      "category": "security",
+      "postedAt": "2026-09-28T04:09:18.499Z"
     }
   ],
-  "lastUpdated": "2026-09-27T23:46:10.422Z"
+  "lastUpdated": "2026-09-28T04:09:18.500Z"
 }
