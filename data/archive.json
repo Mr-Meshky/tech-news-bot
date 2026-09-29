@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-07-29T08:15:28.263Z"
-    },
-    {
       "title": "Zig's Incremental Compilation Internals",
       "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-09-29T04:39:24.890Z"
+    },
+    {
+      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-09-29T12:17:08.594Z"
     }
   ],
-  "lastUpdated": "2026-09-29T04:39:24.892Z"
+  "lastUpdated": "2026-09-29T12:17:08.595Z"
 }
