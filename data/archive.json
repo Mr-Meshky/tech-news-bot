@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Zig's Incremental Compilation Internals",
-      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-29T11:12:59.600Z"
-    },
-    {
       "title": "Elon Musk’s X Money app is rolling out in the US",
       "url": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-09-29T12:17:08.594Z"
+    },
+    {
+      "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+      "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-09-29T19:48:46.777Z"
     }
   ],
-  "lastUpdated": "2026-09-29T12:17:08.595Z"
+  "lastUpdated": "2026-09-29T19:48:46.779Z"
 }
