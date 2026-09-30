@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "source": "TechCrunch",
-      "category": "web",
-      "postedAt": "2026-07-29T16:14:01.282Z"
-    },
-    {
       "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
       "url": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "programming",
       "postedAt": "2026-09-30T00:05:26.280Z"
+    },
+    {
+      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+      "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+      "source": "Wired",
+      "category": "web",
+      "postedAt": "2026-09-30T09:23:33.241Z"
     }
   ],
-  "lastUpdated": "2026-09-30T00:05:26.282Z"
+  "lastUpdated": "2026-09-30T09:23:33.242Z"
 }
