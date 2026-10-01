@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-07-30T05:31:07.411Z"
-    },
-    {
       "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
       "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "MIT Tech Review",
       "category": "other",
       "postedAt": "2026-10-01T04:35:19.399Z"
+    },
+    {
+      "title": "RxFilmStudio",
+      "url": "https://www.producthunt.com/products/rxfilmstudio",
+      "source": "Product Hunt",
+      "category": "other",
+      "postedAt": "2026-10-01T12:35:40.026Z"
     }
   ],
-  "lastUpdated": "2026-10-01T04:35:19.400Z"
+  "lastUpdated": "2026-10-01T12:35:40.027Z"
 }
