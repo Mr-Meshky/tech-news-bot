@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-07-30T08:04:11.272Z"
-    },
-    {
       "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
       "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Product Hunt",
       "category": "other",
       "postedAt": "2026-10-01T12:35:40.026Z"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-01T20:12:28.764Z"
     }
   ],
-  "lastUpdated": "2026-10-01T12:35:40.027Z"
+  "lastUpdated": "2026-10-01T20:12:28.765Z"
 }
