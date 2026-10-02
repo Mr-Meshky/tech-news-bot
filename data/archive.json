@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-30T10:56:48.255Z"
-    },
-    {
       "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
       "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-01T20:12:28.764Z"
+    },
+    {
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-02T00:34:02.854Z"
     }
   ],
-  "lastUpdated": "2026-10-01T20:12:28.765Z"
+  "lastUpdated": "2026-10-02T00:34:02.855Z"
 }
