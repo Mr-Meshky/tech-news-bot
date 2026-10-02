@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
-      "source": "Ars Technica",
-      "category": "web",
-      "postedAt": "2026-07-30T19:06:08.082Z"
-    },
-    {
       "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-02T17:34:12.317Z"
+    },
+    {
+      "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
+      "url": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-02T21:54:35.151Z"
     }
   ],
-  "lastUpdated": "2026-10-02T17:34:12.318Z"
+  "lastUpdated": "2026-10-02T21:54:35.152Z"
 }
