@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
-      "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
-      "source": "TechCrunch",
-      "category": "other",
-      "postedAt": "2026-07-30T13:22:31.978Z"
-    },
-    {
       "title": "Google brings its age-assurance technology to Android developers worldwide",
       "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-10-02T00:34:02.854Z"
+    },
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "source": "Hacker News",
+      "category": "other",
+      "postedAt": "2026-10-02T09:26:33.407Z"
     }
   ],
-  "lastUpdated": "2026-10-02T00:34:02.855Z"
+  "lastUpdated": "2026-10-02T09:26:33.409Z"
 }
