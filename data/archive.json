@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Google brings its age-assurance technology to Android developers worldwide",
-      "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-07-30T16:19:32.592Z"
-    },
-    {
       "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
       "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "other",
       "postedAt": "2026-10-02T09:26:33.407Z"
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-02T17:34:12.317Z"
     }
   ],
-  "lastUpdated": "2026-10-02T09:26:33.409Z"
+  "lastUpdated": "2026-10-02T17:34:12.318Z"
 }
