@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Stacked PRs are now live on GitHub",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-07-31T11:15:45.563Z"
-    },
-    {
       "title": "Read this before you buy that TV streaming stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-03T20:41:05.967Z"
+    },
+    {
+      "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-03T23:33:06.574Z"
     }
   ],
-  "lastUpdated": "2026-10-03T20:41:05.969Z"
+  "lastUpdated": "2026-10-03T23:33:06.575Z"
 }
