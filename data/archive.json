@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "source": "The Verge",
-      "category": "ai",
-      "postedAt": "2026-07-30T21:56:45.072Z"
-    },
-    {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "url": "https://github.com/drumih/turbo-fieldfare",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-10-02T21:54:35.151Z"
+    },
+    {
+      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-03T04:09:56.703Z"
     }
   ],
-  "lastUpdated": "2026-10-02T21:54:35.152Z"
+  "lastUpdated": "2026-10-03T04:09:56.705Z"
 }
