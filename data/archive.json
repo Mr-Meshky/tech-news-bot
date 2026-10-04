@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
-      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "source": "The Verge",
-      "category": "ai",
-      "postedAt": "2026-07-31T19:04:02.764Z"
-    },
-    {
       "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
       "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "mobile",
       "postedAt": "2026-10-04T11:53:20.979Z"
+    },
+    {
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-04T16:32:52.121Z"
     }
   ],
-  "lastUpdated": "2026-10-04T11:53:20.981Z"
+  "lastUpdated": "2026-10-04T16:32:52.122Z"
 }
