@@ -1,15 +1,4 @@
 {
-  "posts": [
-    {
-      "body": "سایبرسکیوریتی دولت آمریکا این ماه وضعیت خوبی نداشته 🤦‍♂️\nدو نهاد فدرال مهم در یک ماه هک شدن و کلی اطلاعات حساس لو رفته.\n\nاولین مورد، پنتاگون:\n• اطلاعات ۲.۸ میلیون نظامی فعلی و سابق لو رفته.\n• شامل شماره ملی، اسم، آدرس، نژاد و مهمتر از همه، \"تخصص شغلی\" که برای دشمنان ارزش زیادی داره.\nهکرها از مهر پارسال به سیستم Defense Manpower Data Center دسترسی داشتن.\n\nمورد دوم هم FBI:\n• گروه باج‌افزار ShinyHunters سیستم رو هک کرده و اطلاعات هزاران کارمند رو برداشته.\n• سمت‌های شغلی این افراد (بعضا مرتبط با چین و روسیه) حساسیت ماجرا رو بالا میبره.\nShinyHunters میگه اطلاعات رو منتشر نمیکنه، ولی به حرف یه گروه هکر نمیشه اعتماد کرد. FBI هم تهدید کرده \"خودتون رو معرفی کنید\".\n\nاین دو هک پشت سر هم، یکی از بزرگترین پتانسیل‌های جاسوسی رو از زمان هک OPM در ۲۰۱۵ (که ۲۲ میلیون رکورد لو رفت) ایجاد کرده. واقعا نگران کننده است که این حجم از اطلاعات حساس اینطور به راحتی از دست میره.",
-      "linkUrl": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
-      "mediaType": "photo"
-    }
-  ],
-  "lastUpdated": "2026-10-04T20:56:55.299Z"
+  "posts": [],
+  "lastUpdated": "2026-10-04T23:53:36.278Z"
 }
