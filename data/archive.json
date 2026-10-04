@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Read this before you buy that TV streaming stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "source": "Hacker News",
-      "category": "security",
-      "postedAt": "2026-07-31T13:26:50.646Z"
-    },
-    {
       "title": "Quantum computers outperform classical ones, with results you can trust",
       "url": "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-03T23:33:06.574Z"
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-10-04T04:42:13.978Z"
     }
   ],
-  "lastUpdated": "2026-10-03T23:33:06.575Z"
+  "lastUpdated": "2026-10-04T04:42:13.980Z"
 }
