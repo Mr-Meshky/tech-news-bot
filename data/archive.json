@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-08-01T07:59:01.823Z"
-    },
-    {
       "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
       "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-05T04:31:51.010Z"
+    },
+    {
+      "title": "Someone got Doom in an SQL database",
+      "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+      "source": "Ars Technica",
+      "category": "programming",
+      "postedAt": "2026-10-05T13:49:52.878Z"
     }
   ],
-  "lastUpdated": "2026-10-05T04:31:51.011Z"
+  "lastUpdated": "2026-10-05T13:49:52.880Z"
 }
