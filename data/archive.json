@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Max-severity Exchange server flaw under active exploitation by Kremlin hackers",
-      "url": "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-01T10:24:53.790Z"
-    },
-    {
       "title": "AI scammers outperform humans when it comes to building trust",
       "url": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "programming",
       "postedAt": "2026-10-05T13:49:52.878Z"
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-05T21:51:31.207Z"
     }
   ],
-  "lastUpdated": "2026-10-05T13:49:52.880Z"
+  "lastUpdated": "2026-10-05T21:51:31.208Z"
 }
