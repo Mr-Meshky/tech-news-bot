@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Samsung expects memory shortage to worsen through 2027 and last until 2028",
-      "url": "https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/",
-      "source": "TechCrunch",
-      "category": "other",
-      "postedAt": "2026-08-01T15:50:51.487Z"
-    },
-    {
       "title": "Siri AI could come with a paywall for power users",
       "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-06T05:15:46.926Z"
+    },
+    {
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "source": "TechCrunch",
+      "category": "security",
+      "postedAt": "2026-10-06T12:53:57.614Z"
     }
   ],
-  "lastUpdated": "2026-10-06T05:15:46.928Z"
+  "lastUpdated": "2026-10-06T12:53:57.615Z"
 }
