@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-08-01T18:50:22.597Z"
-    },
-    {
       "title": "Elevators",
       "url": "https://john.fun/elevators",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-10-06T12:53:57.614Z"
+    },
+    {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-10-06T19:59:47.282Z"
     }
   ],
-  "lastUpdated": "2026-10-06T12:53:57.615Z"
+  "lastUpdated": "2026-10-06T19:59:47.283Z"
 }
