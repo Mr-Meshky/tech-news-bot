@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "VC-backed startups commit more fraud, and researchers think they know why",
-      "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-02T01:27:42.201Z"
-    },
-    {
       "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "web",
       "postedAt": "2026-10-07T00:24:02.766Z"
+    },
+    {
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-07T09:56:00.081Z"
     }
   ],
-  "lastUpdated": "2026-10-07T00:24:02.767Z"
+  "lastUpdated": "2026-10-07T09:56:00.083Z"
 }
