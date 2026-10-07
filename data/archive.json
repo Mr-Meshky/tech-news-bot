@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-02T05:47:06.292Z"
-    },
-    {
       "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
       "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
       "source": "Wired",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-07T09:56:00.081Z"
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-07T18:35:43.144Z"
     }
   ],
-  "lastUpdated": "2026-10-07T09:56:00.083Z"
+  "lastUpdated": "2026-10-07T18:35:43.144Z"
 }
