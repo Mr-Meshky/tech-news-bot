@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-02T10:23:34.210Z"
-    },
-    {
       "title": "NetBSD 11.0",
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-10-08T00:44:31.796Z"
+    },
+    {
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-08T10:07:56.869Z"
     }
   ],
-  "lastUpdated": "2026-10-08T00:44:31.797Z"
+  "lastUpdated": "2026-10-08T10:07:56.870Z"
 }
