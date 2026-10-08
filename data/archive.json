@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
-      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
-      "source": "Wired",
-      "category": "security",
-      "postedAt": "2026-08-02T08:01:09.653Z"
-    },
-    {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-07T18:35:43.144Z"
+    },
+    {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-10-08T00:44:31.796Z"
     }
   ],
-  "lastUpdated": "2026-10-07T18:35:43.144Z"
+  "lastUpdated": "2026-10-08T00:44:31.797Z"
 }
