@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-02T12:52:53.530Z"
-    },
-    {
       "title": "How Google helped destroy adoption of RSS feeds (2023)",
       "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-08T10:07:56.869Z"
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-10-08T18:32:15.427Z"
     }
   ],
-  "lastUpdated": "2026-10-08T10:07:56.870Z"
+  "lastUpdated": "2026-10-08T18:32:15.428Z"
 }
