@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Sony acknowledges backlash, “cautiously” moves ahead with end of PlayStation discs",
-      "url": "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-      "source": "Ars Technica",
-      "category": "game",
-      "postedAt": "2026-08-02T21:42:35.212Z"
-    },
-    {
       "title": "Astronomers Have Detected an Exomoon for the First Time",
       "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
       "source": "Wired",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-10-09T10:09:46.554Z"
+    },
+    {
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-10-09T18:03:38.644Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:09:46.555Z"
+  "lastUpdated": "2026-10-09T18:03:38.645Z"
 }
