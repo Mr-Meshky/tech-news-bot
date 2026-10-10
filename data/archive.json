@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Astronomers Have Detected an Exomoon for the First Time",
-      "url": "https://www.wired.com/story/astronomer-detect-exomoon-for-first-time/",
-      "source": "Wired",
-      "category": "science",
-      "postedAt": "2026-08-03T01:28:24.040Z"
-    },
-    {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "url": "https://qwen.ai/blog?id=qwen3.8",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-10-09T18:03:38.644Z"
+    },
+    {
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+      "source": "TechCrunch",
+      "category": "game",
+      "postedAt": "2026-10-10T00:30:41.651Z"
     }
   ],
-  "lastUpdated": "2026-10-09T18:03:38.645Z"
+  "lastUpdated": "2026-10-10T00:30:41.652Z"
 }
