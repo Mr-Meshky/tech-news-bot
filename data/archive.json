@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "High school defends staying silent while boys made AI nudes of 59 classmates",
-      "url": "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-03T17:03:11.902Z"
-    },
-    {
       "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
       "url": "https://github.com/wie-project/kakehashi",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-10-10T17:03:23.501Z"
+    },
+    {
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-10T21:15:49.935Z"
     }
   ],
-  "lastUpdated": "2026-10-10T17:03:23.503Z"
+  "lastUpdated": "2026-10-10T21:15:49.936Z"
 }
