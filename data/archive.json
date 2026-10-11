@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-04T01:17:46.778Z"
-    },
-    {
       "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
       "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "startup",
       "postedAt": "2026-10-11T12:14:36.812Z"
+    },
+    {
+      "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+      "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+      "source": "Ars Technica",
+      "category": "programming",
+      "postedAt": "2026-10-11T19:22:26.696Z"
     }
   ],
-  "lastUpdated": "2026-10-11T12:14:36.814Z"
+  "lastUpdated": "2026-10-11T19:22:26.698Z"
 }
