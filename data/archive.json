@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-04T11:14:52.236Z"
-    },
-    {
       "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
       "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-10-12T10:21:34.514Z"
+    },
+    {
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-12T21:02:16.658Z"
     }
   ],
-  "lastUpdated": "2026-10-12T10:21:34.515Z"
+  "lastUpdated": "2026-10-12T21:02:16.659Z"
 }
