@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Fresh off its Wiz payout, Index Ventures raises $2B across three funds",
-      "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-04T05:36:34.500Z"
-    },
-    {
       "title": "The James Webb Telescope Is Changing Astronomers’ Understanding of the Ancient Cosmos",
       "url": "https://www.wired.com/story/james-webb-space-telescope-changing-astronomers-universe/",
       "source": "Wired",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "programming",
       "postedAt": "2026-10-11T19:22:26.696Z"
+    },
+    {
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-12T00:15:30.215Z"
     }
   ],
-  "lastUpdated": "2026-10-11T19:22:26.698Z"
+  "lastUpdated": "2026-10-12T00:15:30.216Z"
 }
