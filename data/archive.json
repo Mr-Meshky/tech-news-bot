@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-      "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-04T16:45:15.534Z"
-    },
-    {
       "title": "The next Xbox could play every Xbox game ever made",
       "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-10-13T02:31:40.676Z"
+    },
+    {
+      "title": "QGIS enacts moratorium on AI contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-13T10:11:54.350Z"
     }
   ],
-  "lastUpdated": "2026-10-13T02:31:40.677Z"
+  "lastUpdated": "2026-10-13T10:11:54.351Z"
 }
