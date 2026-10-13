@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The next Xbox could play every Xbox game ever made",
-      "url": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
-      "source": "The Verge",
-      "category": "game",
-      "postedAt": "2026-08-04T19:16:07.786Z"
-    },
-    {
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-10-13T10:11:54.350Z"
+    },
+    {
+      "title": "The OnePlus 16 is the company’s most interesting phone in years",
+      "url": "https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china",
+      "source": "The Verge",
+      "category": "mobile",
+      "postedAt": "2026-10-13T18:58:21.848Z"
     }
   ],
-  "lastUpdated": "2026-10-13T10:11:54.351Z"
+  "lastUpdated": "2026-10-13T18:58:21.850Z"
 }
