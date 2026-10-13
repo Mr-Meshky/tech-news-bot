@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Apple challenges UK government’s latest demand for iCloud backdoor: report",
-      "url": "https://techcrunch.com/2026/08/03/apple-challenges-uk-governments-latest-demand-for-icloud-backdoor-report/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-04T13:41:16.631Z"
-    },
-    {
       "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
       "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-12T21:02:16.658Z"
+    },
+    {
+      "title": "I Found a $90k Remote Code Execution Vulnerability in Google",
+      "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-13T02:31:40.676Z"
     }
   ],
-  "lastUpdated": "2026-10-12T21:02:16.659Z"
+  "lastUpdated": "2026-10-13T02:31:40.677Z"
 }
