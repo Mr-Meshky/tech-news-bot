@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Europe’s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge",
-      "category": "ai",
-      "postedAt": "2026-08-04T22:02:16.243Z"
-    },
-    {
       "title": "FFmpeg 9.0",
       "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "mobile",
       "postedAt": "2026-10-13T18:58:21.848Z"
+    },
+    {
+      "title": "NASA issues long-awaited call to industry for private space stations",
+      "url": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+      "source": "Ars Technica",
+      "category": "science",
+      "postedAt": "2026-10-14T00:10:32.074Z"
     }
   ],
-  "lastUpdated": "2026-10-13T18:58:21.850Z"
+  "lastUpdated": "2026-10-14T00:10:32.076Z"
 }
