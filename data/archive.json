@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-05T01:22:03.905Z"
-    },
-    {
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "science",
       "postedAt": "2026-10-14T00:10:32.074Z"
+    },
+    {
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-10-14T08:27:21.971Z"
     }
   ],
-  "lastUpdated": "2026-10-14T00:10:32.076Z"
+  "lastUpdated": "2026-10-14T08:27:21.974Z"
 }
