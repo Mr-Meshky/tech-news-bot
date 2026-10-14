@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-05T05:35:20.855Z"
-    },
-    {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-14T08:27:21.971Z"
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-10-14T14:24:42.835Z"
     }
   ],
-  "lastUpdated": "2026-10-14T08:27:21.974Z"
+  "lastUpdated": "2026-10-14T14:24:42.836Z"
 }
