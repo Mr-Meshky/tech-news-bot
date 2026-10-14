@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-05T08:12:57.858Z"
-    },
-    {
       "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
       "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-10-14T14:24:42.835Z"
+    },
+    {
+      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "source": "TechCrunch",
+      "category": "security",
+      "postedAt": "2026-10-14T19:12:17.557Z"
     }
   ],
-  "lastUpdated": "2026-10-14T14:24:42.836Z"
+  "lastUpdated": "2026-10-14T19:12:17.558Z"
 }
