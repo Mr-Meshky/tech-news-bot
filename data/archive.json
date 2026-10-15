@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-      "source": "Ars Technica",
-      "category": "web",
-      "postedAt": "2026-08-05T22:03:55.378Z"
-    },
-    {
       "title": "Eight Myths on Software Engineering and GenAI",
       "url": "https://queue.acm.org/detail.cfm?id=3807963",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-15T16:27:27.937Z"
+    },
+    {
+      "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+      "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+      "source": "Ars Technica",
+      "category": "game",
+      "postedAt": "2026-10-15T21:00:22.064Z"
     }
   ],
-  "lastUpdated": "2026-10-15T16:27:27.938Z"
+  "lastUpdated": "2026-10-15T21:00:22.065Z"
 }
