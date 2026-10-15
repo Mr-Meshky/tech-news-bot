@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Hackers steal over $130M by exploiting bug in offline hardware wallets",
-      "url": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-05T19:10:31.032Z"
-    },
-    {
       "title": "Texas halts data center connections to power grid amid overwhelming demand",
       "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-10-15T10:58:38.608Z"
+    },
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-15T16:27:27.937Z"
     }
   ],
-  "lastUpdated": "2026-10-15T10:58:38.611Z"
+  "lastUpdated": "2026-10-15T16:27:27.938Z"
 }
