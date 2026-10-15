@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-05T13:31:00.849Z"
-    },
-    {
       "title": "Waymo opens up robotaxi service in Dallas to everyone",
       "url": "https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-10-14T23:44:16.679Z"
+    },
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch",
+      "category": "science",
+      "postedAt": "2026-10-15T03:33:31.040Z"
     }
   ],
-  "lastUpdated": "2026-10-14T23:44:16.681Z"
+  "lastUpdated": "2026-10-15T03:33:31.041Z"
 }
