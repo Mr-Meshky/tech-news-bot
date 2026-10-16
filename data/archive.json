@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-06T13:29:45.966Z"
-    },
-    {
       "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
       "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-10-16T20:35:52.224Z"
+    },
+    {
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-10-16T23:17:11.355Z"
     }
   ],
-  "lastUpdated": "2026-10-16T20:35:52.226Z"
+  "lastUpdated": "2026-10-16T23:17:11.356Z"
 }
