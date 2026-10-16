@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-06T01:19:17.295Z"
-    },
-    {
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "game",
       "postedAt": "2026-10-15T21:00:22.064Z"
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-10-16T03:29:29.769Z"
     }
   ],
-  "lastUpdated": "2026-10-15T21:00:22.065Z"
+  "lastUpdated": "2026-10-16T03:29:29.771Z"
 }
