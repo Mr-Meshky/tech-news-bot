@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-06T05:37:53.812Z"
-    },
-    {
       "title": "Xbox goes down. You can't play games you own on disc",
       "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-16T03:29:29.769Z"
+    },
+    {
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-16T10:54:22.343Z"
     }
   ],
-  "lastUpdated": "2026-10-16T03:29:29.771Z"
+  "lastUpdated": "2026-10-16T10:54:22.344Z"
 }
