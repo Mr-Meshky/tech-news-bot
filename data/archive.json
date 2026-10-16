@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Xbox goes down. You can't play games you own on disc",
-      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "source": "Hacker News",
-      "category": "game",
-      "postedAt": "2026-08-06T08:11:31.327Z"
-    },
-    {
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-16T10:54:22.343Z"
+    },
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-10-16T16:12:53.184Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:54:22.344Z"
+  "lastUpdated": "2026-10-16T16:12:53.186Z"
 }
