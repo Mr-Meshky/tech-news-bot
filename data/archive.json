@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-07T06:57:16.120Z"
-    },
-    {
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "programming",
       "postedAt": "2026-10-17T15:06:27.376Z"
+    },
+    {
+      "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-10-17T20:14:29.175Z"
     }
   ],
-  "lastUpdated": "2026-10-17T15:06:27.377Z"
+  "lastUpdated": "2026-10-17T20:14:29.176Z"
 }
