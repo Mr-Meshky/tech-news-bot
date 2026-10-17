@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-06T23:47:32.517Z"
-    },
-    {
       "title": "Google plans to kill Assistant on your phone on September 4",
       "url": "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-10-16T23:17:11.355Z"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-17T03:19:42.930Z"
     }
   ],
-  "lastUpdated": "2026-10-16T23:17:11.356Z"
+  "lastUpdated": "2026-10-17T03:19:42.932Z"
 }
