@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-07T09:47:47.658Z"
-    },
-    {
       "title": "D-Wave shows off its new entry in quantum computing race",
       "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-10-17T20:14:29.175Z"
+    },
+    {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-10-17T22:56:42.589Z"
     }
   ],
-  "lastUpdated": "2026-10-17T20:14:29.176Z"
+  "lastUpdated": "2026-10-17T22:56:42.590Z"
 }
