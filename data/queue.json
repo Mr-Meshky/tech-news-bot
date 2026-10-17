@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "KDE سی ساله شد! 🥳 به این مناسبت پلاسمای 6.8 رو منتشر کردن، که پر از فیچرهای جدیده و رسما با X11 خداحافظی میکنه.\n\nپلاسما 6.8 دیگه native X11 session رو ساپورت نمیکنه و کامل میره سمت Wayland. اپ‌های قدیمی X11 البته هنوز با XWayland کار میکنن. این حرکت انتظاری بود، گنوم هم تا 2025 همین کارو میکنه. X11 بعد ۴۲ سال خدمت، دمش گرم.\n\nتوی این نسخه \"30th Anniversary Edition\" کلی بهبود داریم:\n•  بهبود دکوراسیون پنجره‌های third-party (سایه و گوشه‌های گرد)\n•  Nvidia triple buffering پیش‌فرض فعال شد\n•  ادغام Kup (بکاپ KDE)\n•  مانیتور جدید با پین پروسس به CPU.\n\nبرای هوم‌لبر‌ها و ریموت دسکتاپ بازها، قابلیت‌های جدیدی برای Virtual display اضافه شده:\n•  سینک کلیپ‌بورد بین کلاینت و سرور\n•  \"Exclusive Mode\" (قفل کردن نمایشگر سرور)\n•  استریمینگ ریموت تطبیقی برای شبکه‌های کندتر\n\nآخرشم یه مستند جالب دارن: \"The KDE Documentary — A Story of Free Software Underdogs\". اولش بامزه است که اعضای KDE سعی میکنن بگن KDE چیه و میخندن 😂",
-      "linkUrl": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "source": "Ars Technica",
-      "category": "programming",
-      "hashtags": "#برنامه_نویسی #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png",
-      "mediaType": "photo"
-    },
-    {
       "body": "متا دوباره دست به کار شده، این دفعه با یه تغییر تو قوانین تجاریش که خیلی حرف توش هست. 🤨\n\nظاهرا طبق این قوانین جدید، متا میتونه سایت‌های خبری رو اسکرپ کنه و از محتواشون استفاده کنه.\n\nکارشناسای حقوقی میگن این رسما چراغ سبزه برای اینکه متا بتونه برای مدل‌های هوش مصنوعیش (LLM) از محتوای خبری استفاده کنه.\n\nتصور کنید تمام محتوای سایتتون بدون اجازه یا جبران مستقیم، میره تو شکم یه AI. اصلا جالب نیست.\n\nاین حرکت یه جورایی نشون میده کمپانی‌های بزرگ چقدر برای دیتا تشنه‌ان و حاضرن چه خط قرمزهایی رو رد کنن. باید دید ناشرها و تولیدکننده‌های محتوا چه واکنشی نشون میدن.",
       "linkUrl": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
       "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
@@ -19,5 +9,5 @@
       "hashtags": "#وب #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-10-17T10:15:52.660Z"
+  "lastUpdated": "2026-10-17T15:06:27.378Z"
 }
