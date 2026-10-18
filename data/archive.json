@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-07T15:43:44.713Z"
-    },
-    {
       "title": "Anthropic will design its own hardware to power Claude",
       "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-18T03:24:45.399Z"
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-10-18T10:31:26.677Z"
     }
   ],
-  "lastUpdated": "2026-10-18T03:24:45.400Z"
+  "lastUpdated": "2026-10-18T10:31:26.679Z"
 }
