@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Anthropic will design its own hardware to power Claude",
-      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-08-07T18:36:44.848Z"
-    },
-    {
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-10-18T10:31:26.677Z"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-18T15:29:44.352Z"
     }
   ],
-  "lastUpdated": "2026-10-18T10:31:26.679Z"
+  "lastUpdated": "2026-10-18T15:29:44.353Z"
 }
