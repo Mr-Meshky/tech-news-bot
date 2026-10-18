@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-      "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-08T00:43:07.005Z"
-    },
-    {
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-18T20:12:50.970Z"
+    },
+    {
+      "title": "Encryption Is Getting Squeezed From All Sides",
+      "url": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
+      "source": "Wired",
+      "category": "security",
+      "postedAt": "2026-10-18T22:49:10.269Z"
     }
   ],
-  "lastUpdated": "2026-10-18T20:12:50.972Z"
+  "lastUpdated": "2026-10-18T22:49:10.270Z"
 }
