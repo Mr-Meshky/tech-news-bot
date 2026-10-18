@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-07T21:26:59.855Z"
-    },
-    {
       "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
       "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-18T15:29:44.352Z"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-18T20:12:50.970Z"
     }
   ],
-  "lastUpdated": "2026-10-18T15:29:44.353Z"
+  "lastUpdated": "2026-10-18T20:12:50.972Z"
 }
