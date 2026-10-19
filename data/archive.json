@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "source": "Hacker News",
-      "category": "web",
-      "postedAt": "2026-08-08T04:02:29.454Z"
-    },
-    {
       "title": "Defense tech Hadrian raises $1.37B at $8B valuation",
       "url": "https://techcrunch.com/2026/08/06/defense-tech-hadrian-raises-1-37b-at-8b-valuation/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Wired",
       "category": "security",
       "postedAt": "2026-10-18T22:49:10.269Z"
+    },
+    {
+      "title": "OpenCode Hacked: User credentials leaked",
+      "url": "https://twitter.com/opencode/status/2111516673953935833",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-19T03:36:20.306Z"
     }
   ],
-  "lastUpdated": "2026-10-18T22:49:10.270Z"
+  "lastUpdated": "2026-10-19T03:36:20.308Z"
 }
