@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-08T15:19:30.092Z"
-    },
-    {
       "title": "Hardware backdoors in some x86 CPUs",
       "url": "https://github.com/xoreaxeaxeax/rosenbridge",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-20T00:07:47.252Z"
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "source": "Wired",
+      "category": "security",
+      "postedAt": "2026-10-20T08:14:57.035Z"
     }
   ],
-  "lastUpdated": "2026-10-20T00:07:47.254Z"
+  "lastUpdated": "2026-10-20T08:14:57.037Z"
 }
