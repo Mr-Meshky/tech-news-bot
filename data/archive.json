@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "source": "Ars Technica",
-      "category": "programming",
-      "postedAt": "2026-08-08T12:21:47.819Z"
-    },
-    {
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-19T20:25:48.554Z"
+    },
+    {
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-20T00:07:47.252Z"
     }
   ],
-  "lastUpdated": "2026-10-19T20:25:48.555Z"
+  "lastUpdated": "2026-10-20T00:07:47.254Z"
 }
