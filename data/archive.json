@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-08T21:18:17.963Z"
-    },
-    {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-10-20T14:09:05.045Z"
+    },
+    {
+      "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "source": "Ars Technica",
+      "category": "startup",
+      "postedAt": "2026-10-20T18:58:32.217Z"
     }
   ],
-  "lastUpdated": "2026-10-20T14:09:05.046Z"
+  "lastUpdated": "2026-10-20T18:58:32.218Z"
 }
