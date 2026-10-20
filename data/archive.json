@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-09T00:45:52.751Z"
-    },
-    {
       "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "startup",
       "postedAt": "2026-10-20T18:58:32.217Z"
+    },
+    {
+      "title": "Apple teases MacBook Pro event next week",
+      "url": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "source": "The Verge",
+      "category": "gadgets",
+      "postedAt": "2026-10-20T23:39:16.963Z"
     }
   ],
-  "lastUpdated": "2026-10-20T18:58:32.218Z"
+  "lastUpdated": "2026-10-20T23:39:16.965Z"
 }
