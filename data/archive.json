@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-09T06:34:54.531Z"
-    },
-    {
       "title": "Google says hackers are calling financial firm employees to hack and extort victims",
       "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "science",
       "postedAt": "2026-10-21T03:37:57.479Z"
+    },
+    {
+      "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
+      "url": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+      "source": "The Verge",
+      "category": "web",
+      "postedAt": "2026-10-21T11:18:41.587Z"
     }
   ],
-  "lastUpdated": "2026-10-21T03:37:57.480Z"
+  "lastUpdated": "2026-10-21T11:18:41.588Z"
 }
