@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-      "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-09T09:26:50.456Z"
-    },
-    {
       "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
       "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "web",
       "postedAt": "2026-10-21T11:18:41.587Z"
+    },
+    {
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-10-21T16:47:01.912Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:18:41.588Z"
+  "lastUpdated": "2026-10-21T16:47:01.913Z"
 }
