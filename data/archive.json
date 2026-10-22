@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-09T15:21:07.393Z"
-    },
-    {
       "title": "ByteDance trains massive AI model in bid to rival Anthropic",
       "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-10-21T21:20:20.682Z"
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-22T03:37:30.336Z"
     }
   ],
-  "lastUpdated": "2026-10-21T21:20:20.684Z"
+  "lastUpdated": "2026-10-22T03:37:30.337Z"
 }
