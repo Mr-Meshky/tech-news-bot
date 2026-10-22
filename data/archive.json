@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-08-09T18:21:36.275Z"
-    },
-    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-10-22T03:37:30.336Z"
+    },
+    {
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-10-22T11:17:48.301Z"
     }
   ],
-  "lastUpdated": "2026-10-22T03:37:30.337Z"
+  "lastUpdated": "2026-10-22T11:17:48.302Z"
 }
