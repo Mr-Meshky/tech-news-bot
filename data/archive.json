@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-09T21:19:54.566Z"
-    },
-    {
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-10-22T11:17:48.301Z"
+    },
+    {
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-22T16:45:31.125Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:17:48.302Z"
+  "lastUpdated": "2026-10-22T16:45:31.126Z"
 }
