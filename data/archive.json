@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-10T12:39:41.892Z"
-    },
-    {
       "title": "Meta Muse Glimmer – open weights 30B local coding model",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-23T16:36:16.429Z"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-23T21:05:04.557Z"
     }
   ],
-  "lastUpdated": "2026-10-23T16:36:16.431Z"
+  "lastUpdated": "2026-10-23T21:05:04.558Z"
 }

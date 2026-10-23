@@ -1,14 +1,6 @@
 {
   "posts": [
     {
-      "body": "مایکروسافت میگه AIش توی تشخیص بیماری از دکترا بهتر عمل میکنه! 🤯\n\nیه مطالعه جدید تو Science نشون داده سیستم MAI-DxO مایکروسافت توی کیس‌های پیچیده تشخیصی، ۸۳٪ موفق بوده، در حالی که دکترای عمومی فقط ۳۶٪ درست تشخیص دادن.\n\nولی صبر کنید! ✋\nاین مقایسه با دکترای عمومی بوده، نه متخصص‌هایی که واقعا این کیس‌های پیچیده رو هندل میکنن. 🤨\nمهمتر از اون، خود مطالعه میگه بخش اعظم این پیشرفت مال مدل‌های AI زیرساختی مثل GPT-5 و GPT-5.5 هست، نه سیستم ارکستراسیون خود مایکروسافت.\n\nسیستم مایکروسافت (DxO) بیشتر مثل یه هماهنگ‌کننده عمل میکنه. این سیستم:\n• میتونه هزینه تشخیص رو کمی کم کنه (مثلا ۳۰۰۰ دلار از ۸۴۰۰ دلار)\n• دقت رو یه ذره بالا ببره (مثلا ۴٪)\n• با مدل‌های AI ضعیف‌تر (مثل Gemini Flash) عملکرد بهتری رو نشون بده.\nولی رو کیس‌های اورژانسی تفاوت چندانی نداشته.\n\nپس \"medical superintelligence\" سلیمان فعلا یه کم هایپه، ولی نشون میده AI داره تو زمینه پزشکی جدی میشه.",
-      "linkUrl": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "source": "TechCrunch",
-      "category": "ai",
-      "hashtags": "#هوش_مصنوعی #تکنولوژی"
-    },
-    {
       "body": "وای که امنیت سایبری بازم ترکید 🤦‍♂️\n\nاین بار هکرهای چینی، غول مدیریت IT یعنی ConnectWise رو هک کردن و از اونجا به هزاران شرکت دیگه نفوذ کردن.\n\nمایکروسافت میگه این هکرها که به دولت چین وصلن، سرویس بک‌آپ ابری ConnectWise رو زدن و اعتبارنامه‌هایی رو دزدیدن. با این کار تونستن وارد محیط مایکروسافتی مشتری‌ها بشن و به ایمیل و فایل‌هاشون دسترسی پیدا کنن.\n\nنکته ترسناکش اینه که از AI Agentها استفاده کردن! با سرعت وحشتناک، تقریبا ۳۰۰۰ تلاش ورود در دقیقه، حدود ۲۲۵۰ سازمان رو هدف قرار دادن. این سرعت باعث میشه مدافعین عملا هیچ زمانی برای واکنش نداشته باشن 🤯\n\nاین سرعت جنون‌آمیز رو به استفاده از ARTEX (یه فریم‌ورک AI متن‌باز) نسبت دادن. ConnectWise هم فعلا دسترسی به سیستم بک‌آپ ابریش رو متوقف کرده.",
       "linkUrl": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
@@ -51,5 +43,5 @@
       "hashtags": "#موبایل #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-10-23T16:36:16.432Z"
+  "lastUpdated": "2026-10-23T21:05:04.559Z"
 }
