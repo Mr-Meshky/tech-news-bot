@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-      "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-      "source": "TechCrunch",
-      "category": "web",
-      "postedAt": "2026-08-10T10:07:13.654Z"
-    },
-    {
       "title": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-23T11:10:24.407Z"
+    },
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-23T16:36:16.429Z"
     }
   ],
-  "lastUpdated": "2026-10-23T11:10:24.408Z"
+  "lastUpdated": "2026-10-23T16:36:16.431Z"
 }
