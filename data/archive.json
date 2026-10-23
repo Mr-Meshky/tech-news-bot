@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-10T04:20:34.108Z"
-    },
-    {
       "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
       "url": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "mobile",
       "postedAt": "2026-10-22T21:16:13.077Z"
+    },
+    {
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-10-23T03:42:21.512Z"
     }
   ],
-  "lastUpdated": "2026-10-22T21:16:13.078Z"
+  "lastUpdated": "2026-10-23T03:42:21.513Z"
 }
