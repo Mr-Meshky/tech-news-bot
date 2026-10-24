@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Boeing is selling its air taxi startups to Archer Aviation",
-      "url": "https://www.theverge.com/transportation/977306/boeing-selling-evtol-archer-wisk-air-taxi",
-      "source": "The Verge",
-      "category": "startup",
-      "postedAt": "2026-08-10T21:30:03.337Z"
-    },
-    {
       "title": "The first rival Android app store just arrived in the US Play Store",
       "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "security",
       "postedAt": "2026-10-24T10:26:00.611Z"
+    },
+    {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-24T15:30:34.737Z"
     }
   ],
-  "lastUpdated": "2026-10-24T10:26:00.612Z"
+  "lastUpdated": "2026-10-24T15:30:34.739Z"
 }
