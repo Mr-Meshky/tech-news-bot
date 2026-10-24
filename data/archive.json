@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The first rival Android app store just arrived in the US Play Store",
-      "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
-      "source": "The Verge",
-      "category": "mobile",
-      "postedAt": "2026-08-11T00:47:55.223Z"
-    },
-    {
       "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
       "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-10-24T15:30:34.737Z"
+    },
+    {
+      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-24T20:22:04.172Z"
     }
   ],
-  "lastUpdated": "2026-10-24T15:30:34.739Z"
+  "lastUpdated": "2026-10-24T20:22:04.173Z"
 }
