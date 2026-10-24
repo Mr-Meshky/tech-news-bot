@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-      "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-11T04:09:53.696Z"
-    },
-    {
       "title": "Apple will stream Friday Night Baseball live in Vision Pro",
       "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-24T20:22:04.172Z"
+    },
+    {
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "source": "Hacker News",
+      "category": "mobile",
+      "postedAt": "2026-10-24T22:56:26.129Z"
     }
   ],
-  "lastUpdated": "2026-10-24T20:22:04.173Z"
+  "lastUpdated": "2026-10-24T22:56:26.131Z"
 }
