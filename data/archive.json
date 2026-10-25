@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-11T12:36:30.616Z"
-    },
-    {
       "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "programming",
       "postedAt": "2026-10-25T10:52:58.281Z"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-25T15:40:33.198Z"
     }
   ],
-  "lastUpdated": "2026-10-25T10:52:58.283Z"
+  "lastUpdated": "2026-10-25T15:40:33.200Z"
 }
