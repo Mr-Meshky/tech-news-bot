@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source": "The Verge",
-      "category": "security",
-      "postedAt": "2026-08-11T15:48:28.245Z"
-    },
-    {
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-25T15:40:33.198Z"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-25T20:28:26.769Z"
     }
   ],
-  "lastUpdated": "2026-10-25T15:40:33.200Z"
+  "lastUpdated": "2026-10-25T20:28:26.770Z"
 }
