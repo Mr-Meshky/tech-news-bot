@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-11T18:43:06.308Z"
-    },
-    {
       "title": "How Claude marks AI-generated content",
       "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-10-25T20:28:26.769Z"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-25T23:02:32.710Z"
     }
   ],
-  "lastUpdated": "2026-10-25T20:28:26.770Z"
+  "lastUpdated": "2026-10-25T23:02:32.712Z"
 }
