@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-11T09:48:11.384Z"
-    },
-    {
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-25T03:35:30.783Z"
+    },
+    {
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "source": "TechCrunch",
+      "category": "programming",
+      "postedAt": "2026-10-25T10:52:58.281Z"
     }
   ],
-  "lastUpdated": "2026-10-25T03:35:30.784Z"
+  "lastUpdated": "2026-10-25T10:52:58.283Z"
 }
