@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Apple will stream Friday Night Baseball live in Vision Pro",
-      "url": "https://www.theverge.com/tech/977199/apple-will-stream-friday-night-baseball-live-in-vision-pro",
-      "source": "The Verge",
-      "category": "gadgets",
-      "postedAt": "2026-08-11T06:43:22.478Z"
-    },
-    {
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "mobile",
       "postedAt": "2026-10-24T22:56:26.129Z"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-25T03:35:30.783Z"
     }
   ],
-  "lastUpdated": "2026-10-24T22:56:26.131Z"
+  "lastUpdated": "2026-10-25T03:35:30.784Z"
 }
