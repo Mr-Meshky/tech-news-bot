@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-11T21:33:04.914Z"
-    },
-    {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-25T23:02:32.710Z"
+    },
+    {
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-10-26T03:36:17.896Z"
     }
   ],
-  "lastUpdated": "2026-10-25T23:02:32.712Z"
+  "lastUpdated": "2026-10-26T03:36:17.898Z"
 }
