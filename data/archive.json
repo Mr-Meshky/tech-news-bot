@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-12T00:55:21.913Z"
-    },
-    {
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-26T03:36:17.896Z"
+    },
+    {
+      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+      "source": "Ars Technica",
+      "category": "science",
+      "postedAt": "2026-10-26T12:23:48.163Z"
     }
   ],
-  "lastUpdated": "2026-10-26T03:36:17.898Z"
+  "lastUpdated": "2026-10-26T12:23:48.164Z"
 }
