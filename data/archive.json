@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
-      "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-12T12:39:42.772Z"
-    },
-    {
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
       "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-10-27T08:42:40.149Z"
+    },
+    {
+      "title": "Microsoft offers buyouts to around 60,000 employees",
+      "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+      "source": "TechCrunch",
+      "category": "other",
+      "postedAt": "2026-10-27T15:10:15.064Z"
     }
   ],
-  "lastUpdated": "2026-10-27T08:42:40.150Z"
+  "lastUpdated": "2026-10-27T15:10:15.065Z"
 }
