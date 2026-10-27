@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-08-12T09:52:11.119Z"
-    },
-    {
       "title": "North Korean remote IT staffer worked for US government agency, says FBI",
       "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-27T00:17:09.127Z"
+    },
+    {
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-10-27T08:42:40.149Z"
     }
   ],
-  "lastUpdated": "2026-10-27T00:17:09.128Z"
+  "lastUpdated": "2026-10-27T08:42:40.150Z"
 }
