@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-08-12T15:49:50.171Z"
-    },
-    {
       "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
       "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "other",
       "postedAt": "2026-10-27T15:10:15.064Z"
+    },
+    {
+      "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+      "source": "Ars Technica",
+      "category": "mobile",
+      "postedAt": "2026-10-27T21:53:17.150Z"
     }
   ],
-  "lastUpdated": "2026-10-27T15:10:15.065Z"
+  "lastUpdated": "2026-10-27T21:53:17.151Z"
 }
