@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-12T21:33:04.866Z"
-    },
-    {
       "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
       "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-10-28T04:26:30.870Z"
+    },
+    {
+      "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+      "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-10-28T12:16:33.137Z"
     }
   ],
-  "lastUpdated": "2026-10-28T04:26:30.872Z"
+  "lastUpdated": "2026-10-28T12:16:33.138Z"
 }
