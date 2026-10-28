@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-12T18:44:26.220Z"
-    },
-    {
       "title": "OpenAI launches ChatGPT desktop app for Linux",
       "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "mobile",
       "postedAt": "2026-10-27T21:53:17.150Z"
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-10-28T04:26:30.870Z"
     }
   ],
-  "lastUpdated": "2026-10-27T21:53:17.151Z"
+  "lastUpdated": "2026-10-28T04:26:30.872Z"
 }
