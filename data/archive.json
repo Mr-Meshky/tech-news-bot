@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Gemini becomes Google's fastest-growing product ever as it hits 1B users",
-      "url": "https://arstechnica.com/ai/2026/08/google-says-gemini-has-reached-1b-users-faster-than-any-other-google-product/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-08-13T00:56:15.283Z"
-    },
-    {
       "title": "AI is removing the middle class of software engineering",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "ai",
       "postedAt": "2026-10-28T12:16:33.137Z"
+    },
+    {
+      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+      "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+      "source": "Ars Technica",
+      "category": "web",
+      "postedAt": "2026-10-28T20:06:07.555Z"
     }
   ],
-  "lastUpdated": "2026-10-28T12:16:33.138Z"
+  "lastUpdated": "2026-10-28T20:06:07.556Z"
 }
