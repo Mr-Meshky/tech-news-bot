@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-      "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-13T07:08:03.813Z"
-    },
-    {
       "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
       "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "mobile",
       "postedAt": "2026-10-29T00:38:12.744Z"
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "source": "Hacker News",
+      "category": "mobile",
+      "postedAt": "2026-10-29T09:31:09.174Z"
     }
   ],
-  "lastUpdated": "2026-10-29T00:38:12.746Z"
+  "lastUpdated": "2026-10-29T09:31:09.175Z"
 }
