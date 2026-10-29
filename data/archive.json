@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-08-13T09:52:13.759Z"
-    },
-    {
       "title": "Chrome adopts what may be the best protection yet against account takeovers",
       "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "mobile",
       "postedAt": "2026-10-29T09:31:09.174Z"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-29T18:07:30.622Z"
     }
   ],
-  "lastUpdated": "2026-10-29T09:31:09.175Z"
+  "lastUpdated": "2026-10-29T18:07:30.624Z"
 }
