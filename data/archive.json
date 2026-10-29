@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AI is removing the middle class of software engineering",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-13T04:43:00.284Z"
-    },
-    {
       "title": "Researchers found a way to hijack devices through Zoom screen sharing",
       "url": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "web",
       "postedAt": "2026-10-28T20:06:07.555Z"
+    },
+    {
+      "title": "Apple acknowledges iPhone Duo display &#8216;issue&#8217; after reports of cracked screens",
+      "url": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
+      "source": "The Verge",
+      "category": "mobile",
+      "postedAt": "2026-10-29T00:38:12.744Z"
     }
   ],
-  "lastUpdated": "2026-10-28T20:06:07.556Z"
+  "lastUpdated": "2026-10-29T00:38:12.746Z"
 }
