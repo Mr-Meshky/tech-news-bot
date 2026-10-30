@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-13T15:47:52.362Z"
-    },
-    {
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
       "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-10-30T00:38:49.998Z"
+    },
+    {
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-10-30T09:41:22.424Z"
     }
   ],
-  "lastUpdated": "2026-10-30T00:38:50.000Z"
+  "lastUpdated": "2026-10-30T09:41:22.426Z"
 }
