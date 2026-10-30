@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-13T12:40:38.645Z"
-    },
-    {
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-29T18:07:30.622Z"
+    },
+    {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-10-30T00:38:49.998Z"
     }
   ],
-  "lastUpdated": "2026-10-29T18:07:30.624Z"
+  "lastUpdated": "2026-10-30T00:38:50.000Z"
 }
