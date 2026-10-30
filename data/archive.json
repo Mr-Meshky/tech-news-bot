@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-13T18:45:02.990Z"
-    },
-    {
       "title": "In a first, US will allow some private firms to carry out cyberattacks",
       "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-10-30T09:41:22.424Z"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-10-30T17:47:14.488Z"
     }
   ],
-  "lastUpdated": "2026-10-30T09:41:22.426Z"
+  "lastUpdated": "2026-10-30T17:47:14.489Z"
 }
