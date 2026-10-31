@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Delta",
-      "url": "https://zed.dev/blog/introducing-delta",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-14T09:49:45.058Z"
-    },
-    {
       "title": "The web’s newest weapon against AI scrapers is a font",
       "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-31T16:57:15.430Z"
+    },
+    {
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "source": "TechCrunch",
+      "category": "web",
+      "postedAt": "2026-10-31T21:06:07.029Z"
     }
   ],
-  "lastUpdated": "2026-10-31T16:57:15.431Z"
+  "lastUpdated": "2026-10-31T21:06:07.030Z"
 }
