@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-14T04:40:59.107Z"
-    },
-    {
       "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
       "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-10-31T04:27:56.478Z"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch",
+      "category": "web",
+      "postedAt": "2026-10-31T11:48:35.162Z"
     }
   ],
-  "lastUpdated": "2026-10-31T04:27:56.479Z"
+  "lastUpdated": "2026-10-31T11:48:35.164Z"
 }
