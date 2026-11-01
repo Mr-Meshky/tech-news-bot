@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-14T15:41:51.715Z"
-    },
-    {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-11-01T04:47:28.907Z"
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge",
+      "category": "mobile",
+      "postedAt": "2026-11-01T12:47:55.066Z"
     }
   ],
-  "lastUpdated": "2026-11-01T04:47:28.907Z"
+  "lastUpdated": "2026-11-01T12:47:55.068Z"
 }
