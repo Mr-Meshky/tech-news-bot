@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "url": "https://z.ai/blog/glm-5.3",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-14T18:38:01.446Z"
-    },
-    {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "mobile",
       "postedAt": "2026-11-01T12:47:55.066Z"
+    },
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-11-01T19:23:16.768Z"
     }
   ],
-  "lastUpdated": "2026-11-01T12:47:55.068Z"
+  "lastUpdated": "2026-11-01T19:23:16.769Z"
 }
