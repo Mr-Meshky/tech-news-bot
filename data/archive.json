@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "‘That is not acceptable’: Judge orders Google to make rival app store installs easier",
-      "url": "https://www.theverge.com/policy/979852/that-is-not-acceptable-judge-orders-google-to-make-rival-app-store-installs-easier",
-      "source": "The Verge",
-      "category": "mobile",
-      "postedAt": "2026-08-15T03:32:34.710Z"
-    },
-    {
       "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
       "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-11-02T10:38:52.818Z"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-11-02T21:28:02.907Z"
     }
   ],
-  "lastUpdated": "2026-11-02T10:38:52.819Z"
+  "lastUpdated": "2026-11-02T21:28:02.908Z"
 }
