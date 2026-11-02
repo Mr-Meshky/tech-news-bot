@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-14T21:14:12.448Z"
-    },
-    {
       "title": "Apple proposes to take a 15% cut of purchases made outside the App Store",
       "url": "https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-11-01T19:23:16.768Z"
+    },
+    {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-11-02T00:20:28.321Z"
     }
   ],
-  "lastUpdated": "2026-11-01T19:23:16.769Z"
+  "lastUpdated": "2026-11-02T00:20:28.322Z"
 }
