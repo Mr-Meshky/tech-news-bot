@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "source": "Hacker News",
-      "category": "web",
-      "postedAt": "2026-08-15T12:16:37.671Z"
-    },
-    {
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-11-03T13:44:48.865Z"
+    },
+    {
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-11-03T20:48:14.688Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:44:48.867Z"
+  "lastUpdated": "2026-11-03T20:48:14.689Z"
 }
