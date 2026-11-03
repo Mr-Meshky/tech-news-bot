@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-15T06:17:31.520Z"
-    },
-    {
       "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
       "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-11-02T21:28:02.907Z"
+    },
+    {
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-11-03T05:41:17.845Z"
     }
   ],
-  "lastUpdated": "2026-11-02T21:28:02.908Z"
+  "lastUpdated": "2026-11-03T05:41:17.846Z"
 }
