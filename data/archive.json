@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-15T18:11:17.456Z"
-    },
-    {
       "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
       "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-11-04T01:04:08.382Z"
+    },
+    {
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "source": "The Verge",
+      "category": "security",
+      "postedAt": "2026-11-04T10:33:25.572Z"
     }
   ],
-  "lastUpdated": "2026-11-04T01:04:08.384Z"
+  "lastUpdated": "2026-11-04T10:33:25.574Z"
 }
