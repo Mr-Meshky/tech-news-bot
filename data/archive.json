@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-15T15:08:56.825Z"
-    },
-    {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-11-03T20:48:14.688Z"
+    },
+    {
+      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-11-04T01:04:08.382Z"
     }
   ],
-  "lastUpdated": "2026-11-03T20:48:14.689Z"
+  "lastUpdated": "2026-11-04T01:04:08.384Z"
 }
