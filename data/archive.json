@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-16T03:39:33.970Z"
-    },
-    {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
       "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "mobile",
       "postedAt": "2026-11-05T01:19:44.092Z"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-11-05T10:26:33.040Z"
     }
   ],
-  "lastUpdated": "2026-11-05T01:19:44.094Z"
+  "lastUpdated": "2026-11-05T10:26:33.042Z"
 }
