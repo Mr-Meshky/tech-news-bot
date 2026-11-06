@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Self-driving trucks are officially testing on California highways",
-      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-08-16T12:14:49.830Z"
-    },
-    {
       "title": "What we know about the alleged Iranian hacks on US water utilities",
       "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-11-06T01:24:19.145Z"
+    },
+    {
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-11-06T10:28:09.636Z"
     }
   ],
-  "lastUpdated": "2026-11-06T01:24:19.147Z"
+  "lastUpdated": "2026-11-06T10:28:09.637Z"
 }
