@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "source": "The Verge",
-      "category": "security",
-      "postedAt": "2026-08-17T03:38:53.212Z"
-    },
-    {
       "title": "Firefox for iOS now has a native adblocker",
       "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-11-07T17:31:11.624Z"
+    },
+    {
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-11-07T21:31:20.096Z"
     }
   ],
-  "lastUpdated": "2026-11-07T17:31:11.625Z"
+  "lastUpdated": "2026-11-07T21:31:20.097Z"
 }
