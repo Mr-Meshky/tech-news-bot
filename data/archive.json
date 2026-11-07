@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "source": "Ars Technica",
-      "category": "ai",
-      "postedAt": "2026-08-16T18:11:12.324Z"
-    },
-    {
       "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
       "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-11-06T18:58:26.943Z"
+    },
+    {
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-11-07T00:39:37.494Z"
     }
   ],
-  "lastUpdated": "2026-11-06T18:58:26.944Z"
+  "lastUpdated": "2026-11-07T00:39:37.495Z"
 }
