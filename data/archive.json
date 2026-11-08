@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-17T09:28:30.839Z"
-    },
-    {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-11-08T04:53:16.693Z"
+    },
+    {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-11-08T12:52:49.303Z"
     }
   ],
-  "lastUpdated": "2026-11-08T04:53:16.694Z"
+  "lastUpdated": "2026-11-08T12:52:49.304Z"
 }
