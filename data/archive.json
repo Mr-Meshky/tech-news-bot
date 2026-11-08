@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-17T12:17:56.927Z"
-    },
-    {
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
       "url": "https://rvembedded.com/blog_post/12/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-11-08T12:52:49.303Z"
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-11-08T19:21:50.664Z"
     }
   ],
-  "lastUpdated": "2026-11-08T12:52:49.304Z"
+  "lastUpdated": "2026-11-08T19:21:50.666Z"
 }
