@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Firefox for iOS now has a native adblocker",
-      "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-      "source": "Hacker News",
-      "category": "mobile",
-      "postedAt": "2026-08-17T06:29:04.092Z"
-    },
-    {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
       "url": "https://duckdb.org/2026/07/31/asynchronous-io",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-11-07T21:31:20.096Z"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-11-08T04:53:16.693Z"
     }
   ],
-  "lastUpdated": "2026-11-07T21:31:20.097Z"
+  "lastUpdated": "2026-11-08T04:53:16.694Z"
 }
