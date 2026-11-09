@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-17T15:14:05.651Z"
-    },
-    {
       "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
       "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-11-08T19:21:50.664Z"
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-11-09T00:36:06.113Z"
     }
   ],
-  "lastUpdated": "2026-11-08T19:21:50.666Z"
+  "lastUpdated": "2026-11-09T00:36:06.115Z"
 }
