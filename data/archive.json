@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
-      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-18T03:34:23.224Z"
-    },
-    {
       "title": "Hidden Airtag reveals Amazon is trashing rare books to train AI",
       "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "mobile",
       "postedAt": "2026-11-10T06:16:22.200Z"
+    },
+    {
+      "title": "Sequoia shutting down its Scouts program marks the end of an era",
+      "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-11-10T16:50:15.921Z"
     }
   ],
-  "lastUpdated": "2026-11-10T06:16:22.201Z"
+  "lastUpdated": "2026-11-10T16:50:15.923Z"
 }
