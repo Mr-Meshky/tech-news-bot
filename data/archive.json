@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-18T12:20:12.153Z"
-    },
-    {
       "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
       "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "ai",
       "postedAt": "2026-11-11T05:00:25.806Z"
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-11-11T13:41:44.646Z"
     }
   ],
-  "lastUpdated": "2026-11-11T05:00:25.807Z"
+  "lastUpdated": "2026-11-11T13:41:44.648Z"
 }
