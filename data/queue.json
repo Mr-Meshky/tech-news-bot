@@ -1,16 +1,6 @@
 {
   "posts": [
     {
-      "body": "خب بچه‌ها، یه خبر بد داریم برای لینوکسی‌ها 🚨\n\nیه آسیب‌پذیری بحرانی جدید به اسم *sshole کشف شده که رسما به هکرها اجازه می‌ده بدون احراز هویت SSH کنن به سیستم‌های لینوکس و دسترسی privileged بگیرن. اسمش هم که خودش گویای همه چیزه! 🤦‍♂️\n\nاین باگ وقتی پیش میاد که:\n• از OpenSSH و کتابخانه musl (جایگزین libc) استفاده می‌کنید.\n• OpenSSH شما از PAM (Pluggable Authentication Modules) استفاده نمی‌کنه.\n• کانفیگ SSHتون هم شرایط خاصی داشته باشه، مثلا یه اکانت با پسورد SHA256/SHA512 و اکانت passwordless با کاراکتر \"*\" تو فیلد پسورد.\n\nمتاسفانه گروه‌های هکری همین الان دارن ازش سوءاستفاده می‌کنن. Greynoise گزارش داده که یه گروه چینی به اسم GT10 داره این باگ رو اکتیو اکسپلویت می‌کنه و بک‌دورهای خودش رو (که حتی با AI ساخته شدن) روی سیستم‌های آلوده نصب می‌کنه.\n\nخوشبختانه OpenSSH برای این مشکل یه پچ ریلیز کرده. پس اگه شرایط بالا رو دارید، حتما همین الان سیستم‌هاتون رو آپدیت کنید. این یکی رو دیگه نباید شوخی گرفت.",
-      "linkUrl": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "source": "Ars Technica",
-      "category": "security",
-      "hashtags": "#امنیت #تکنولوژی",
-      "mediaUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-      "mediaType": "photo"
-    },
-    {
       "body": "DeepMind دوباره با Gemini Robotics 2.5 سروصدا کرده و داره جدی‌تر از همیشه سراغ ربات‌های عمومی میره که بتونن کارهای پیچیده رو انجام بدن.\n\nاین ربات‌ها دیگه فقط برای یه کار خاص برنامه‌ریزی نشدن. هدفشون اینه که مثل آدمیزاد بفهمن چی میخوای و خودشون پلن کنن و انجام بدن. Gemini 2.5 دو تا بخش اصلی داره: یکی مدل بینایی-زبان (VLM) که میفهمه چی باید بکنه و یکی هم مدل بینایی-زبان-عمل (VLA) که حرکت ربات رو تولید میکنه.\n\nتو نسخه جدید حسابی پیشرفت کردن:\n• دقتشون برای کارهای ظریف (مثل گرفتن وسایل با انبر یا گره زدن روبان!) خیلی بیشتر شده. 🤏\n• تا ۱۰۰٪ نرخ موفقیتشون بالاتر رفته و ۲۰-۳۰٪ هم سریع‌تر شدن. 🚀\n\nنکته جالب اینه که تو کارخونه‌های مرسدس بنز هم تست شدن و تونستن با ۹۶٪ موفقیت، قطعات ماشین رو مونتاژ کنن. البته، مدیر دیپ‌مایند خودش میگه اون ۴٪ باقی‌مونده تا سطح عملکرد انسان، یه راه خیلی شیب‌داره و اینجاست که چالش اصلی شروع میشه. 🚧\n\nیه بنچمارک امنیتی اوپن‌سورس هم به اسم ASIMOV-jailbreak معرفی کردن که برای وقتیه که ربات‌ها کنار آدما کار کنن و خطری نداشته باشن.",
       "linkUrl": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
@@ -37,5 +27,5 @@
       "hashtags": "#استارتاپ #تکنولوژی"
     }
   ],
-  "lastUpdated": "2026-11-11T13:41:44.676Z"
+  "lastUpdated": "2026-11-11T21:45:33.762Z"
 }
