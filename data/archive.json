@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-18T09:20:06.399Z"
-    },
-    {
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-11-10T22:57:25.789Z"
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "source": "The Verge",
+      "category": "ai",
+      "postedAt": "2026-11-11T05:00:25.806Z"
     }
   ],
-  "lastUpdated": "2026-11-10T22:57:25.790Z"
+  "lastUpdated": "2026-11-11T05:00:25.807Z"
 }
