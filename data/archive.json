@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch",
-      "category": "other",
-      "postedAt": "2026-08-18T18:21:36.050Z"
-    },
-    {
       "title": "Samsung’s Galaxy Buds 3 Pro are almost half off today",
       "url": "https://www.theverge.com/gadgets/981525/galaxy-buds-3-pro-dji-pocket-deal-sale",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-11-11T21:45:33.759Z"
+    },
+    {
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "source": "Ars Technica",
+      "category": "ai",
+      "postedAt": "2026-11-12T06:04:00.232Z"
     }
   ],
-  "lastUpdated": "2026-11-11T21:45:33.761Z"
+  "lastUpdated": "2026-11-12T06:04:00.233Z"
 }
