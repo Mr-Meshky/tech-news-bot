@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Viral Disneyland Content Creator Defends Her ‘Special Friendship’ With Peter Pan",
-      "url": "https://www.wired.com/story/viral-disneyland-content-creator-defends-her-special-friendship-with-peter-pan/",
-      "source": "Wired",
-      "category": "other",
-      "postedAt": "2026-08-19T06:22:50.748Z"
-    },
-    {
       "title": "The Download: how people really use AI, and Flock’s design choices",
       "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
       "source": "MIT Tech Review",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-11-13T05:29:48.980Z"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-11-13T14:02:30.297Z"
     }
   ],
-  "lastUpdated": "2026-11-13T05:29:48.982Z"
+  "lastUpdated": "2026-11-13T14:02:30.299Z"
 }
