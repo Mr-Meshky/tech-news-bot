@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-      "source": "MIT Tech Review",
-      "category": "other",
-      "postedAt": "2026-08-19T09:21:15.359Z"
-    },
-    {
       "title": "سکوت مرموز یک سرویس ایمیل جنجالی؛ آیا اطلاعات کاربران در خطر است؟",
       "url": "https://www.zoomit.ir/security/465384-cock-li-warrant-canary-expired/",
       "source": "Zoomit",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-11-13T14:02:30.297Z"
+    },
+    {
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-11-13T21:14:00.216Z"
     }
   ],
-  "lastUpdated": "2026-11-13T14:02:30.299Z"
+  "lastUpdated": "2026-11-13T21:14:00.218Z"
 }
