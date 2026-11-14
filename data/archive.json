@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Taku AI",
-      "url": "https://www.producthunt.com/products/taku-ai",
-      "source": "Product Hunt",
-      "category": "other",
-      "postedAt": "2026-08-19T15:19:14.856Z"
-    },
-    {
       "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
       "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-11-14T05:17:27.846Z"
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-11-14T13:04:48.594Z"
     }
   ],
-  "lastUpdated": "2026-11-14T05:17:27.848Z"
+  "lastUpdated": "2026-11-14T13:04:48.595Z"
 }
