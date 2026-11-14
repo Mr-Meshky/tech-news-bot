@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "سکوت مرموز یک سرویس ایمیل جنجالی؛ آیا اطلاعات کاربران در خطر است؟",
-      "url": "https://www.zoomit.ir/security/465384-cock-li-warrant-canary-expired/",
-      "source": "Zoomit",
-      "category": "other",
-      "postedAt": "2026-08-19T12:20:03.028Z"
-    },
-    {
       "title": "Taku AI",
       "url": "https://www.producthunt.com/products/taku-ai",
       "source": "Product Hunt",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-11-13T21:14:00.216Z"
+    },
+    {
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-11-14T05:17:27.846Z"
     }
   ],
-  "lastUpdated": "2026-11-13T21:14:00.218Z"
+  "lastUpdated": "2026-11-14T05:17:27.848Z"
 }
