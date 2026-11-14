@@ -1,14 +1,6 @@
 {
   "posts": [
     {
-      "body": "اپل یه فریم‌ورک جدید برای Foundation Models معرفی کرده که کار دولوپرها رو برای آوردن LLM به اپ‌هاشون خیلی راحت‌تر می‌کنه. این حرکت یه جورایی هم برای مدلای خودشون روی دستگاه و Private Cloud هست، هم برای بقیه مدل‌ها.\n\nاین فریم‌ورک یه API نیتیو Swift هست که هم به مدلای خود اپل دسترسی می‌ده و هم می‌تونی مدلای معروف دیگه مثل Claude یا Gemini رو تو اپت استفاده کنی. این یعنی دیگه لازم نیست برای هر مدل یه API جدا یاد بگیری، همه‌چی تو یه اکوسیستم جمع شده.\n\nچند تا نکته باحالش:\n• مدلای روی دستگاه (on-device) برای حریم خصوصی و کار بدون اینترنت عالی‌ان.\n• قابلیت‌های پیشرفته مثل Guided Generation، Tool Calling، و درک عکس (multimodal prompts) رو داره.\n• با Vision framework اپل هم ادغام شده برای OCR و بارکد خوانی.\n• Dynamic Profiles برای اینکه بتونی تو یه سشن، تنظیمات مدل و ابزارها رو لحظه‌ای عوض کنی.\n• برای کسب‌وکارهای کوچیک، استفاده از مدلای اپل روی Private Cloud رایگانه.\n\nبه نظرم این یه قدم مهم برای گسترش هوش مصنوعی روی پلتفرم اپله، مخصوصا با تاکیدش رو حریم خصوصی و دسترسی یکپارچه به مدل‌های مختلف. می‌تونه خیلی از اپ‌ها رو هوشمندتر کنه.",
-      "linkUrl": "https://developer.apple.com/foundation-models-framework/",
-      "title": "Foundation Models framework",
-      "source": "Hacker News",
-      "category": "programming",
-      "hashtags": "#برنامه_نویسی #تکنولوژی"
-    },
-    {
       "body": "وای بچه‌ها! یه باگ ۲۲ ساله توی خود PostgreSQL core پیدا شده که RCE میده 🤯 یعنی چی؟ یعنی کد اجرا می‌کنه!\n\nیه محقق امنیتی حین بررسی یه اکستنشن (pg_clickhouse) کنجکاو میشه که خود پستگرس چطوری دیتاها رو مدیریت می‌کنه. میره تو عمق کد و با کمک AI، یه کلاس جدید از آسیب‌پذیری‌های Type Confusion رو کشف می‌کنه.\n\nدقیقا چی شده؟ به یه Composite Type توی PostgreSQL یه مقدار میدی، بعد نوع یکی از فیلدهاشو عوض می‌کنی. وقتی ازش می‌خوای مقدار رو بخونه، اینجا PostgreSQL قاطی می‌کنه و Type Confusion منجر به Memory Corruption میشه. این باگ انقدر قدیمیه که واقعا عجیبه تازه الان کشف شده.\n\nاین داستان نشون میده که حتی تو پایگاه داده‌های ریشه‌دار هم میشه باگ‌های عمیق پیدا کرد. مخصوصا برای سرویس‌های Managed Postgres باید حواسشون باشه. 🚨",
       "linkUrl": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
       "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
@@ -27,5 +19,5 @@
       "mediaType": "photo"
     }
   ],
-  "lastUpdated": "2026-11-14T13:04:48.596Z"
+  "lastUpdated": "2026-11-14T19:45:28.489Z"
 }

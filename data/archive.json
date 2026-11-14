@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-19T18:17:48.436Z"
-    },
-    {
       "title": "Meta AI is getting a Mac app",
       "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-11-14T13:04:48.594Z"
+    },
+    {
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-11-14T19:45:28.487Z"
     }
   ],
-  "lastUpdated": "2026-11-14T13:04:48.595Z"
+  "lastUpdated": "2026-11-14T19:45:28.488Z"
 }
