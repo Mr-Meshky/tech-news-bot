@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
-      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-20T00:32:03.662Z"
-    },
-    {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-11-15T00:49:01.767Z"
+    },
+    {
+      "title": "Xbox announces Wolfenstein 3",
+      "url": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
+      "source": "The Verge",
+      "category": "game",
+      "postedAt": "2026-11-15T10:27:54.892Z"
     }
   ],
-  "lastUpdated": "2026-11-15T00:49:01.768Z"
+  "lastUpdated": "2026-11-15T10:27:54.893Z"
 }
