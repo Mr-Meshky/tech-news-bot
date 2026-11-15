@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Meta AI is getting a Mac app",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "source": "The Verge",
-      "category": "ai",
-      "postedAt": "2026-08-19T21:14:49.468Z"
-    },
-    {
       "title": "T-Mobile ‘chopped a cable’ to expel Chinese hackers from its network",
       "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-11-14T19:45:28.487Z"
+    },
+    {
+      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "source": "Hacker News",
+      "category": "security",
+      "postedAt": "2026-11-15T00:49:01.767Z"
     }
   ],
-  "lastUpdated": "2026-11-14T19:45:28.488Z"
+  "lastUpdated": "2026-11-15T00:49:01.768Z"
 }
