@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Devices with GrapheneOS support should be available in 2027",
-      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "source": "Hacker News",
-      "category": "mobile",
-      "postedAt": "2026-08-20T06:22:59.019Z"
-    },
-    {
       "title": "Etched’s valuation doubles to $21B in a month",
       "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-11-15T18:35:17.173Z"
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "source": "Hacker News",
+      "category": "science",
+      "postedAt": "2026-11-16T00:47:50.486Z"
     }
   ],
-  "lastUpdated": "2026-11-15T18:35:17.174Z"
+  "lastUpdated": "2026-11-16T00:47:50.488Z"
 }
