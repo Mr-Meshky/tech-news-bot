@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Mojo is now open source",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-20T18:21:48.120Z"
-    },
-    {
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-11-17T06:55:16.298Z"
+    },
+    {
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-11-17T18:13:24.168Z"
     }
   ],
-  "lastUpdated": "2026-11-17T06:55:16.299Z"
+  "lastUpdated": "2026-11-17T18:13:24.169Z"
 }
