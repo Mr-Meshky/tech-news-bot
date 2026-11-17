@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "TikTok explores peer-to-peer payments via DMs, report says",
-      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-      "source": "TechCrunch",
-      "category": "web",
-      "postedAt": "2026-08-20T15:22:05.612Z"
-    },
-    {
       "title": "Mojo is now open source",
       "url": "https://www.modular.com/blog/mojo-open-source",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "security",
       "postedAt": "2026-11-16T21:43:01.335Z"
+    },
+    {
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "source": "Ars Technica",
+      "category": "security",
+      "postedAt": "2026-11-17T06:55:16.298Z"
     }
   ],
-  "lastUpdated": "2026-11-16T21:43:01.336Z"
+  "lastUpdated": "2026-11-17T06:55:16.299Z"
 }
