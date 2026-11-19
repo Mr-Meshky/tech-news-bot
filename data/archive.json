@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "source": "Hacker News",
-      "category": "web",
-      "postedAt": "2026-08-21T09:23:53.375Z"
-    },
-    {
       "title": "Tesla Robotaxis appear to go fully unsupervised in Austin ahead of Cybercab launch",
       "url": "https://www.theverge.com/transportation/982759/tesla-robotaxi-unsupervised-austin-robotaxi-tracker",
       "source": "The Verge",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "other",
       "postedAt": "2026-11-19T11:13:09.589Z"
+    },
+    {
+      "title": "The AI Hype Index: AI is everywhere",
+      "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "source": "MIT Tech Review",
+      "category": "other",
+      "postedAt": "2026-11-19T20:03:33.795Z"
     }
   ],
-  "lastUpdated": "2026-11-19T11:13:09.590Z"
+  "lastUpdated": "2026-11-19T20:03:33.796Z"
 }
