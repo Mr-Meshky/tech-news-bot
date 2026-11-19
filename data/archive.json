@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-      "source": "TechCrunch",
-      "category": "startup",
-      "postedAt": "2026-08-21T06:23:59.700Z"
-    },
-    {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "other",
       "postedAt": "2026-11-19T02:18:58.990Z"
+    },
+    {
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "source": "Ars Technica",
+      "category": "other",
+      "postedAt": "2026-11-19T11:13:09.589Z"
     }
   ],
-  "lastUpdated": "2026-11-19T02:18:58.991Z"
+  "lastUpdated": "2026-11-19T11:13:09.590Z"
 }
