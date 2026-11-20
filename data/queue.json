@@ -1,14 +1,4 @@
 {
-  "posts": [
-    {
-      "body": "Snapchat یه حرکت جالب زده برای Lens Creatorهاش 🤩\n\nاز این به بعد می‌تونن با AI Assistantهایی مثل Claude Code و Cursor، لنزهای AR بسازن. یعنی دیگه لازم نیست خودشون کد بزنن یا عمیقا با ابزارهای اسنپ‌چت درگیر بشن.\n\nایده اصلی اینه که با توضیح دادن یه لنز با زبان عادی، AI از صفر تا صد کار رو هندل کنه.\n\n• از ساخت بیش از ۱۰۰ تا AR building block و ۵۰ تا AI asset generator استفاده می‌کنه.\n• پیش‌نمایش می‌سازه، پابلیش می‌کنه و حتی پرفورمنس رو ترک می‌کنه.\n• می‌تونن بازی‌های Web Lens با لیدربورد، افکت‌های دوربین یا فیلترهای زیبایی بسازن.\n\nاین حرکت اسنپ‌چت واقعا Barrier to Entry رو برای ساخت محتوای AR خیلی میاره پایین. دیگه لازم نیست کلی ابزار یاد بگیری؛ با همون AI Workflow که برنامه‌نویس‌ها استفاده می‌کنن، می‌شه وارد بازی شد.\n\nخیلی جالبه که میگن یه بازی رو می‌شه از ایده اولیه تو یه روز به یه لنز منتشر شده تبدیل کرد. اگه واقعا اینقدر سریع و با کیفیت باشه، می‌تونه کلی خلاقیت جدید بیاره رو پلتفرم.",
-      "linkUrl": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "source": "TechCrunch",
-      "category": "other",
-      "hashtags": "#تکنولوژی",
-      "attempts": 1
-    }
-  ],
-  "lastUpdated": "2026-11-20T02:02:14.202Z"
+  "posts": [],
+  "lastUpdated": "2026-11-20T10:58:46.349Z"
 }
