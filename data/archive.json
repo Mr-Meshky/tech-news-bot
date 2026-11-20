@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-21T18:21:13.602Z"
-    },
-    {
       "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "other",
       "postedAt": "2026-11-20T10:58:46.347Z"
+    },
+    {
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "source": "Hacker News",
+      "category": "science",
+      "postedAt": "2026-11-20T19:42:10.484Z"
     }
   ],
-  "lastUpdated": "2026-11-20T10:58:46.348Z"
+  "lastUpdated": "2026-11-20T19:42:10.485Z"
 }
