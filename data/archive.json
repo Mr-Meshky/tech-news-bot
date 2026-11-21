@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-22T00:31:39.700Z"
-    },
-    {
       "title": "US government lab is probing Chinese lidar for security vulnerabilities",
       "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-11-21T01:59:23.518Z"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "category": "ai",
+      "postedAt": "2026-11-21T10:42:37.637Z"
     }
   ],
-  "lastUpdated": "2026-11-21T01:59:23.520Z"
+  "lastUpdated": "2026-11-21T10:42:37.638Z"
 }
