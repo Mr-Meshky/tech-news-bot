@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "US government lab is probing Chinese lidar for security vulnerabilities",
-      "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
-      "source": "TechCrunch",
-      "category": "security",
-      "postedAt": "2026-08-22T03:32:32.433Z"
-    },
-    {
       "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
       "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-11-21T10:42:37.637Z"
+    },
+    {
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch",
+      "category": "security",
+      "postedAt": "2026-11-21T18:46:36.532Z"
     }
   ],
-  "lastUpdated": "2026-11-21T10:42:37.638Z"
+  "lastUpdated": "2026-11-21T18:46:36.534Z"
 }
