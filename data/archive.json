@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-      "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-08-22T09:15:36.838Z"
-    },
-    {
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "The Verge",
       "category": "game",
       "postedAt": "2026-11-22T00:59:03.256Z"
+    },
+    {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "source": "Hacker News",
+      "category": "web",
+      "postedAt": "2026-11-22T10:48:19.270Z"
     }
   ],
-  "lastUpdated": "2026-11-22T00:59:03.257Z"
+  "lastUpdated": "2026-11-22T10:48:19.272Z"
 }
