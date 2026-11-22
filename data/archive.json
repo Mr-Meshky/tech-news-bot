@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "source": "TechCrunch",
-      "category": "mobile",
-      "postedAt": "2026-08-22T06:18:53.791Z"
-    },
-    {
       "title": "Walmart to finally start accepting Apple Pay and Google Pay",
       "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "security",
       "postedAt": "2026-11-21T18:46:36.532Z"
+    },
+    {
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "source": "The Verge",
+      "category": "game",
+      "postedAt": "2026-11-22T00:59:03.256Z"
     }
   ],
-  "lastUpdated": "2026-11-21T18:46:36.534Z"
+  "lastUpdated": "2026-11-22T00:59:03.257Z"
 }
