@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "source": "Hacker News",
-      "category": "web",
-      "postedAt": "2026-08-22T12:14:42.877Z"
-    },
-    {
       "title": "Putting mice into hibernation causes a major loss of synapses",
       "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
       "source": "Ars Technica",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "web",
       "postedAt": "2026-11-22T10:48:19.270Z"
+    },
+    {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-11-22T19:09:13.621Z"
     }
   ],
-  "lastUpdated": "2026-11-22T10:48:19.272Z"
+  "lastUpdated": "2026-11-22T19:09:13.622Z"
 }
