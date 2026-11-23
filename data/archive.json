@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Putting mice into hibernation causes a major loss of synapses",
-      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-      "source": "Ars Technica",
-      "category": "other",
-      "postedAt": "2026-08-22T15:12:44.632Z"
-    },
-    {
       "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
       "url": "https://www.wired.com/review/saily-ultra-esim/",
       "source": "Wired",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "startup",
       "postedAt": "2026-11-22T19:09:13.621Z"
+    },
+    {
+      "title": "I'll never buy Framework hardware again",
+      "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+      "source": "Hacker News",
+      "category": "gadgets",
+      "postedAt": "2026-11-23T01:25:52.663Z"
     }
   ],
-  "lastUpdated": "2026-11-22T19:09:13.622Z"
+  "lastUpdated": "2026-11-23T01:25:52.664Z"
 }
