@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Saily Ultra eSIM Premum Plan Review: Packed With Perks",
-      "url": "https://www.wired.com/review/saily-ultra-esim/",
-      "source": "Wired",
-      "category": "other",
-      "postedAt": "2026-08-22T18:11:57.978Z"
-    },
-    {
       "title": "The Download: threats from space mirrors and credit for AI drugs",
       "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
       "source": "MIT Tech Review",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "gadgets",
       "postedAt": "2026-11-23T01:25:52.663Z"
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "source": "Hacker News",
+      "category": "ai",
+      "postedAt": "2026-11-23T11:56:59.790Z"
     }
   ],
-  "lastUpdated": "2026-11-23T01:25:52.664Z"
+  "lastUpdated": "2026-11-23T11:56:59.792Z"
 }
