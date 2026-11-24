@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch",
-      "category": "ai",
-      "postedAt": "2026-08-23T00:36:04.247Z"
-    },
-    {
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
       "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Ars Technica",
       "category": "security",
       "postedAt": "2026-11-23T23:29:14.589Z"
+    },
+    {
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "source": "Ars Technica",
+      "category": "web",
+      "postedAt": "2026-11-24T08:46:32.216Z"
     }
   ],
-  "lastUpdated": "2026-11-23T23:29:14.590Z"
+  "lastUpdated": "2026-11-24T08:46:32.217Z"
 }
