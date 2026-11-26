@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-      "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-      "source": "Ars Technica",
-      "category": "security",
-      "postedAt": "2026-08-23T15:10:23.170Z"
-    },
-    {
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
       "source": "Hacker News",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "ai",
       "postedAt": "2026-11-26T11:57:43.806Z"
+    },
+    {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "source": "Hacker News",
+      "category": "programming",
+      "postedAt": "2026-11-26T21:20:52.516Z"
     }
   ],
-  "lastUpdated": "2026-11-26T11:57:43.807Z"
+  "lastUpdated": "2026-11-26T21:20:52.518Z"
 }
