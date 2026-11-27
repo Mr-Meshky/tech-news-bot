@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "source": "Hacker News",
-      "category": "programming",
-      "postedAt": "2026-08-23T18:12:19.475Z"
-    },
-    {
       "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
       "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "Hacker News",
       "category": "programming",
       "postedAt": "2026-11-26T21:20:52.516Z"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source": "TechCrunch",
+      "category": "startup",
+      "postedAt": "2026-11-27T07:07:55.450Z"
     }
   ],
-  "lastUpdated": "2026-11-26T21:20:52.518Z"
+  "lastUpdated": "2026-11-27T07:07:55.451Z"
 }
