@@ -1,13 +1,6 @@
 {
   "entries": [
     {
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "source": "Hacker News",
-      "category": "ai",
-      "postedAt": "2026-08-24T00:35:45.114Z"
-    },
-    {
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "source": "TechCrunch",
@@ -2099,7 +2092,14 @@
       "source": "TechCrunch",
       "category": "ai",
       "postedAt": "2026-11-27T18:42:49.996Z"
+    },
+    {
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "source": "TechCrunch",
+      "category": "security",
+      "postedAt": "2026-11-28T03:07:21.563Z"
     }
   ],
-  "lastUpdated": "2026-11-27T18:42:49.997Z"
+  "lastUpdated": "2026-11-28T03:07:21.564Z"
 }
